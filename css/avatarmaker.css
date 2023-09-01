@@ -1,0 +1,318 @@
+.related-posts-section,
+.footer-wrapper,
+.privacy-footer,
+.footer-1,
+.feature1-h1,
+.feature1-h2,
+.feature1-flex-container {
+  display: none;
+}
+
+#image-format {
+  padding: 6px 33px 6px 16px;
+  border-radius: 4px;
+  width: 123px;
+  border: 1px solid #ccc;
+  outline: none;
+  margin-left: 7px;
+  /* border: none; */
+  font-weight: bold;
+  font-size: 15px;
+  color: #555;
+  text-transform: uppercase;
+  margin-left: 6px;
+}
+
+.download-format {
+  display: flex;
+  align-items: center;
+  /* border-bottom: 1px solid #ddd; */
+  /* padding: 0px 24px; */
+}
+
+.download-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.select-format-title {
+  position: relative;
+  display: inline-block;
+  /* padding: 0 24px; */
+  font-size: 16px;
+  padding: 0px 24px 0px 0px;
+  color: #066;
+  border-right: 1px solid #eee;
+  text-decoration: none;
+  filter: grayscale(100%);
+  display: flex;
+  justify-content: left;
+  text-transform: capitalize;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+#download-button {
+  padding: 6px 0px;
+  cursor: pointer;
+  display: inline-block;
+  width: 130px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  /* padding: 10px 0; */
+  text-align: center;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.3s;
+  border: none;
+}
+
+#download-button svg {
+  fill: #fff;
+  margin-right: 4px;
+  height: 20px;
+}
+
+.download-wrapper .rowclass {
+  width: -webkit-fill-available;
+}
+
+
+.svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 400px;
+  height: 400px;
+  vertical-align: auto !important;
+  overflow: auto !important;
+}
+
+.avatar_maker {
+  position: relative;
+}
+
+.avatar_content {
+  background-color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  visibility: visible;
+  transition: opacity .15s, visibility .15s;
+}
+
+#download-button {
+  /* border-radius: 50px; */
+  background-color: #5891F1;
+}
+
+.button {
+  width: 130px;
+  background: #5891F1;
+  padding: 0;
+  text-align: center;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #fff;
+  font-weight: 700;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button:hover {
+  color: #fff !important
+}
+
+.button:focus {
+  box-shadow: unset;
+}
+
+.options-panel {
+  padding: 30px;
+  font-size: 25px;
+  height: 100%;
+  min-height: 400px;
+  border: 1px solid #ccc;
+  background: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 1;
+  visibility: visible;
+  transition: opacity .15s, visibility .15s;
+}
+
+.avatar_menu_list {
+  display: flex;
+  max-width: 100%;
+  overflow-x: scroll;
+}
+
+.common_btn {
+  background-color: #f8f8f8;
+  font-size: 10px;
+  border: none;
+  margin: 5px;
+  padding: 0px 25px;
+  border-radius: 5px;
+  font-weight: 400;
+}
+
+.common_btn:hover {
+  background-color: #5891F1;
+  color: #fff;
+}
+
+
+
+
+
+.avatar_menu_list::-webkit-scrollbar {
+  height: 12px;
+  width: 12px;
+}
+
+.avatar_menu_list::-webkit-scrollbar-thumb {
+  background-color: #404040;
+  border-radius: 50px;
+  border: 3px solid #fff;
+}
+
+.avatar_menu_list::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+
+
+
+
+
+
+
+
+#options {
+  position: relative;
+  /* background: #f8f8f8; */
+  max-width: 100%;
+}
+
+#options_div {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-x: visible;
+  position: relative;
+  max-width: 100%;
+  justify-content: center;
+}
+
+.accesories,
+.backgroundcolors,
+.clothes,
+.eyebrows,
+.eyes,
+.fabriccolors,
+.facialhairs,
+.glasses,
+.glassopacity,
+.haircolors,
+.hairstyles,
+.mouths,
+.skins,
+.tattoos {
+  flex: 0 0 auto;
+  top: 0;
+  width: 53px;
+  height: 53px;
+  margin: 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #ffdbb4;
+}
+
+
+
+.accesories,
+.clothes,
+.eyebrows,
+.eyes,
+.facialhairs,
+.glasses,
+.hairstyles,
+.mouths,
+.tattoos {
+  background-image: url(/img/avatar-maker-main.png);
+}
+
+.accesories,
+.clothes,
+.eyebrows,
+.eyes,
+.facialhairs,
+.glasses,
+.hairstyles,
+.mouths,
+.tattoos {
+  background-color: white !important;
+  display: block;
+  box-shadow: 0 0 0 1px #fff inset;
+  border: 1px solid rgba(0, 0, 0, 0.1)
+}
+
+.skins {
+  width: 40px;
+  height: 40px;
+
+}
+
+@media (max-width:768px) {
+  .download-format {
+    padding: 0px;
+    flex-direction: column;
+    gap: 5px;
+    margin: 0px;
+  }
+
+
+
+  .download-button-container {
+    justify-content: end;
+
+  }
+
+  .button {
+    box-shadow: unset;
+    height: auto;
+    padding: 0px;
+  }
+
+  .options-panel {
+    margin-bottom: 400px;
+    height: auto;
+    min-height: auto;
+    margin-top: 430px;
+    /* border: none; */
+    background: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: unset;
+    align-items: unset;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .15s, visibility .15s;
+  }
+
+}

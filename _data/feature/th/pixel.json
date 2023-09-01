@@ -1,0 +1,77 @@
+{
+    "Language": "ภาษาไทย",
+    "htmlLangAtt": "th",
+    "H1": "เครื่องมือสร้างงานศิลปะพิกเซลบนเว็บฟรี",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "เริ่มแปลงภาพของคุณเป็นศิลปะพิกเซลโดยการอัปโหลดภาพของคุณด้านล่าง",
+    "TITLE": "Pixel art Maker - ใช้เครื่องมือนี้เพื่อสร้างศิลปะพิกเซลจากภาพของคุณ",
+    "META": "ผู้สร้างศิลปะพิกเซลออนไลน์ที่เรียบง่ายและฟรีพร้อมตัวเลือกมากมายในการสร้างภาพศิลปะพิกเซลที่ดีที่สุดสำหรับคุณ",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "คุณภาพสูง",
+            "content": "ภาพของเราเป็นเครื่องมือแปลงศิลปะพิกเซลแปลงภาพเป็นศิลปะพิกเซลโดยการรักษาคุณภาพของภาพ"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "ความปลอดภัยของข้อมูล",
+            "content": "ไม่มีการส่งข้อมูลของคุณบนเซิร์ฟเวอร์ของเราการดำเนินการทั้งหมดจะทำบนเบราว์เซอร์เองสิ่งนี้ช่วยให้เราปลอดภัย 100% สำหรับผู้ใช้ของเรา"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "ความยืดหยุ่น",
+            "content": "ภาพของเราเป็นเครื่องมือแปลงศิลปะพิกเซลทำงานบนเกือบทุกชนิดของเบราว์เซอร์และอุปกรณ์เครื่องกำเนิดไฟฟ้าศิลปะพิกเซลนี้เป็นเว็บเบราว์เซอร์และสนับสนุนรวมถึง Microsoft Edge, Chrome, Safari, Firefox และจำนวนของคนอื่น ๆ ที่รู้จักกันดี"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "ใช้งานง่าย",
+            "content": "ภาพของเราเป็นเครื่องมือแปลงศิลปะพิกเซลเป็นเรื่องง่ายมากที่จะเข้าใจไม่จำเป็นต้องมีมืออาชีพในการทำงานกับเครื่องมือของเราบุคคลใดสามารถใช้เครื่องกำเนิดไฟฟ้าพิกเซลศิลปะนี้ได้อย่างง่ายดายตลอดเวลา"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "ไม่มีค่าใช้จ่าย",
+            "content": "เครื่องมือแปลงภาพเป็นพิกเซลอาร์ตของเราไม่มีค่าใช้จ่ายคุณสามารถใช้เครื่องมือทั้งหมดของเราโดยไม่ต้องจ่ายเงินเพียงครั้งเดียวใช้เครื่องกำเนิดไฟฟ้าศิลปะพิกเซลอื่นถูกถามสำหรับการสมัครสมาชิกที่จะทำมัน แต่เครื่องกำเนิดไฟฟ้าศิลปะพิกเซลนี้สามารถทำมันได้ฟรี"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "ไม่มีการดาวน์โหลดเพิ่มเติม",
+            "content": "ภาพของเราเพื่อศิลปะพิกเซลเครื่องมือแปลงเป็นอย่างสมบูรณ์เบราว์เซอร์และไม่มีซอฟต์แวร์เพิ่มเติมจะต้องดาวน์โหลดบนอุปกรณ์ของคุณใช้เครื่องกำเนิดไฟฟ้าศิลปะพิกเซลนี้บนอุปกรณ์ใด ๆ เช่นมือถือแท็บหรือเครื่องคอมพิวเตอร์โดยไม่ต้องดาวน์โหลด"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "วิธีการแปลงภาพของเราเป็นศิลปะพิกเซล",
+        "steps": [
+            "อัปโหลดรูปภาพหรือคลิกที่ลูกศรชี้ลงแล้วเลือก Dropbox/Google Drive",
+            "ดูภาพศิลปะพิกเซลโดยเลื่อนลง",
+            "กดปุ่ม “save” เพื่อบันทึกการเปลี่ยนแปลงที่ทำ ",
+            "ดาวน์โหลดศิลปะพิกเซลโดยใช้ตัวเลือกการดาวน์โหลด",
+            "ไชโย!!ศิลปะพิกเซลพร้อมที่จะใช้"
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

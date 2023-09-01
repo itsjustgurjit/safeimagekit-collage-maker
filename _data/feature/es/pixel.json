@@ -1,0 +1,77 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "H1": "Creador de pixel art gratuito basado en la web",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "Empieza a convertir tu imagen en pixel art, subiendo tu imagen a continuación",
+    "TITLE": "Creador de arte en píxeles: usa esta herramienta para crear arte en píxeles a partir de tu imagen",
+    "META": "Creador de pixel art en línea simple y gratuito, con múltiples opciones para crear la mejor imagen de pixel art para ti",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "De alta calidad",
+            "content": "Nuestra herramienta de conversión de imágenes a arte pixelado convierte las imágenes en arte pixelado al conservar su calidad."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Seguridad de datos",
+            "content": "Ninguno de sus datos se envía a nuestros servidores, todas las operaciones se realizan en el propio navegador. Esto nos permite estar 100% seguros para nuestros usuarios"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibilidad",
+            "content": "Nuestra herramienta de conversión de imágenes a arte pixelado funciona en casi todo tipo de navegadores y dispositivos. Este generador de pixel art está basado en la web y los navegadores compatibles incluyen Microsoft Edge, Chrome, Safari, Firefox y varios otros conocidos."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Fácil de usar",
+            "content": "Nuestra herramienta de conversión de imágenes a arte pixelado es muy fácil de entender. No se necesita ningún profesional para trabajar en nuestra herramienta. Cualquier persona puede utilizar este generador de pixel art fácilmente en cualquier momento."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Libre de costo",
+            "content": "Nuestra herramienta de conversión de imágenes a arte pixelado es completamente gratuita. Puedes usar todas nuestras herramientas sin pagar un solo centavo. Si usas otro generador de pixel art, se solicita una suscripción para hacerlo, pero este generador de arte en píxeles puede hacerlo de forma gratuita."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Sin descarga adicional",
+            "content": "Nuestra herramienta de conversión de imágenes a arte pixelado está completamente basada en un navegador y no es necesario descargar ningún software adicional en tu dispositivo. Utiliza este generador de arte pixelado en cualquier dispositivo, como móvil, pestaña o PC, sin descargarlo."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Cómo convertir nuestra imagen en pixel art.",
+        "steps": [
+            "Sube la imagen o haz clic en la flecha desplegable y selecciona Dropbox/Google Drive",
+            "Echa un vistazo al pixel art desplazándote hacia abajo.",
+            "Pulsa la opción «guardar» para guardar los cambios realizados. ",
+            "Descarga el pixel art mediante la opción de descarga.",
+            "¡¡Hurra!! el pixel art está listo para usarse."
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

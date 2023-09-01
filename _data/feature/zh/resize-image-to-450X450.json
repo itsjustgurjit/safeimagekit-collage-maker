@@ -1,0 +1,416 @@
+{
+    "Language": "简体中文",
+    "htmlLangAtt": "zh",
+    "H1": "免费在线 450x450 尺寸图像缩放器（以像素为单位）",
+    "keywords": "resize image to 450x450",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "警告",
+    "H2": "快速将图像大小调整为 450x450 尺寸的最佳工具",
+    "TITLE": "在不损失质量的情况下将图像调整为 450x450 像素尺寸-最佳免费在线工具",
+    "META": "立即将图像调整为 450x450 的比例，而不会降低其质量。这个免费的将图像调整为 450x450 的工具允许您下载 JPG，JPEG，PNG 和 WEBP 格式的调整后的图像，而无需任何登录。",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "以英寸为单位的图像大小",
+                "links": [
+                    {
+                        "name": "将图像调整为 3x5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "将图像调整为 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "将图像调整为 5x7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "将图像调整为 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "将图像调整为 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "将图像调整为 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "将图像调整为 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "将图像调整为 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "将图像调整为 11x14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "将图像调整为 11x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "将图像调整为 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "将图像调整为 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "将图像调整为 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "将图像调整为 20x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "将图像调整为 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "将图像调整为 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "将图像调整为 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "将图像调整为 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "将图像调整为 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "将图像调整为 30x40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "以像素为单位的图像大小",
+                "links": [
+                    {
+                        "name": "将图像大小调整为 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "将图像大小调整为 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "将图像调整为 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "将图像调整为 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "将图像调整为 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "将图像调整为 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "将图像大小调整为 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "将图像调整为 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "将图像调整为 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "将图像调整为 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "将图像调整为 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "将图像调整为 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "将图像大小调整为 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "将图像调整为 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "将图像大小调整为 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "将图像调整为 500x500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "将图像大小调整为 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "将图像大小调整为 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "将图像大小调整为 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "将图像调整为 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "将图像大小调整为 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "将图像大小调整为 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "将图像调整为 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "将图像调整为 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "将图像大小调整为 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "将图像调整为 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "将图像大小调整为 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "将图像调整为 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "将图像调整为 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "将图像调整为 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "将图像大小调整为 1200x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "将图像大小调整为 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "将图像大小调整为 1280720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "将图像调整为 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "将图像大小调整为 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "将图像调整为 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "将图像大小调整为 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "将图像调整为 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "将图像调整为 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "将图像调整为 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "将图像大小调整为 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "将图像大小调整为 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "将图像调整为 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "将图像大小调整为 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "将图像大小调整为 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "高品质",
+            "content": "借助我们的将图像调整为 450x450 尺寸工具，可以在不损失图像质量的情况下以像素为单位调整图像大小。由于展开的图像具有与原始图像相同的长宽比，因此无需裁剪图像。即使是非技术人员也可以完成该过程，因为没有技术要求。它还为您提供缩放图像的预览，使您可以以最有效的方式完成调整大小的过程。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "它很容易使用",
+            "content": "此将图像调整为 450x450 尺寸的工具（以像素为单位）非常易于使用。首先，用户界面非常简单易用。你不必猜测从哪里开始编辑，因为所有内容都集中在一个地方。此外，我们的将图像调整为 450x450 尺寸的工具没有广告，为最终用户带来了更愉快的用户体验。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "数据隐私和安全",
+            "content": "当您使用将图像调整为 450x450 尺寸工具时，不会将任何数据上传到我们的系统或用于任何营销目的。使用将图像调整为 450x450 尺寸工具时执行的所有操作都完全在浏览器中执行。因此，我们能够为所有客户提供完整的安全保护，使我们的调整图像调整为 450x450 尺寸的工具在任何情况下都可靠且无风险地使用。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "完全免费",
+            "content": "您无需注册或登录即可使用图像大小调整工具将图像转换为 450x450 尺寸。您无需付费即可使用我们的将图像调整为 450x450 尺寸工具。您可以根据需要多次将图像调整为 450x450 尺寸。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "适应性",
+            "content": "将图像调整为 450x450 尺寸工具与多种常见浏览器兼容，包括 Chrome、Safari、Firefox、微软 Edge 等。当您使用将图像调整为 450x450 尺寸工具时，它将自动调整为任何屏幕尺寸，从而使您可以根据自己的喜好在台式计算机、平板电脑或手机上方便地访问它。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "无需安装任何其他软件",
+            "content": "您无需在计算机或移动设备上下载或安装任何软件即可使用我们的将图像调整为 450x450 尺寸工具。我们的将图像调整为 450x450 尺寸的工具完全基于网络，因此您可以随时使用它。只需将我们网站的 URL 粘贴到您的浏览器中，然后根据需要使用它。"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "如何调整图像大小",
+        "steps": [
+            "单击 “选择文件” 以从设备上传图片，或单击下拉按钮从 Dropbox 或 Google 云端硬盘上传图片。",
+            "根据所需的规格调整图像的尺寸和格式。",
+            "要查看所做的更改，请单击 “预览”。",
+            "单击 “保存更改” 按钮保存更改。",
+            "要获取调整大小的图像，请单击 “下载” 按钮。"
+        ]
+    },
+    
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

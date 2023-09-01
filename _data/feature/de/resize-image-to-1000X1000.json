@@ -1,0 +1,416 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "H1": "Kostenlose Online 1000x1000 Abmessungen Bild Resizer in Pixeln",
+    "keywords": "resize image to 1000x1000",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "Warnung",
+    "H2": "Das beste Tool zum schnellen Ändern der Bildgröße auf 1000x1000 Abmessungen",
+    "TITLE": "Ändern Sie die Größe von Bildern auf 1000x1000 Pixel, ohne die Qualität zu verlieren - Das beste kostenlose Online-Tool",
+    "META": "Ändern Sie die Größe Ihrer Bilder sofort auf das Verhältnis 1000x1000, ohne ihre Qualität zu verlieren. Mit diesem kostenlosen Tool zum Ändern der Bildgröße auf 1000x1000 können Sie Bilder mit der Größe in den Formaten JPG, JPEG, PNG und WEBP herunterladen, ohne dass eine Anmeldung erforderlich ist.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Bildgrößenverkleinerer in Zoll",
+                "links": [
+                    {
+                        "name": "Bildgröße auf 3x5 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "Bildgröße auf 5x7 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "Bildgröße auf 11x14 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "Bildgröße auf 11x16 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "Bildgröße auf 20x24 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "Bildgröße auf 30x40 ändern ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Größenanpassungen von Bildern in Pixeln",
+                "links": [
+                    {
+                        "name": "Resizer-Bild auf 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 500x500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "Resizer-Bild auf 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/de/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Hochwertige",
+            "content": "Mit Hilfe unseres Resizer-Bilds auf 1000x1000 Dimensionen ist es möglich, die Größe von Bildern in Pixeln zu ändern, ohne ihre Qualität zu verlieren. Da das erweiterte Bild dasselbe Seitenverhältnis wie das Originalbild hat, ist es nicht erforderlich, das Bild zuzuschneiden. Selbst nicht-technische Personen können das Verfahren abschließen, da keine technischen Anforderungen bestehen. Es bietet Ihnen auch eine Vorschau des skalierten Bilds, mit der Sie die Größenänderung so effizient wie möglich durchführen können."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Es ist einfach zu benutzen",
+            "content": "Dieses Werkzeug zum Ändern der Bildgröße auf 1000x1000 Abmessungen in Pixeln ist sehr einfach zu bedienen. Zu Beginn ist die Benutzeroberfläche recht einfach und einfach. Sie müssen nicht raten, wo Sie mit der Bearbeitung beginnen sollen, da sich alles an einem Ort befindet. Darüber hinaus ist unser Tool zur Größenanpassung auf 1000x1000 Abmessungen frei von Werbung, was zu einer angenehmeren Benutzererfahrung für den Endbenutzer führt."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Datenschutz und Sicherheit",
+            "content": "Wenn Sie das Resizer-Image auf 1000x1000 Dimensionen verwenden, werden keine Daten in unsere Systeme hochgeladen oder für Marketingzwecke verwendet. Alle Aktionen, die bei der Verwendung des Resizer-Bilds auf 1000x1000 Abmessungen ausgeführt werden, werden vollständig im Browser ausgeführt. Infolgedessen sind wir in der Lage, allen unseren Kunden vollständige Sicherheit zu bieten, sodass unser Resizer-Image auf 1000x1000 Abmessungen zuverlässig und risikofrei in jeder Situation verwendet werden kann."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Völlig kostenlos",
+            "content": "Sie müssen sich nicht registrieren oder anmelden, um das Bildgrößenänderungstool zum Konvertieren von Bildern in 1000x1000 Abmessungen zu verwenden. Sie müssen nicht bezahlen, um unser Resizer-Bild auf 1000x1000 Dimensionen zu verwenden. Sie können die Größe Ihrer Bilder beliebig oft auf die Abmessungen 1000x1000 ändern."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Anpassungsfähigkeit",
+            "content": "Das Tool zum Ändern der Bildgröße auf 1000x1000 ist mit einer Vielzahl gängiger Browser kompatibel, darunter Chrome, Safari, Firefox, Microsoft Edge und andere. Wenn Sie das Resizer-Bild auf 1000x1000 Abmessungen verwenden, passt es sich automatisch an jede Bildschirmgröße an, sodass es für Sie je nach Ihren Vorlieben bequem auf Ihrem Desktop-Computer, Tablet-Computer oder Mobiltelefon zugänglich ist."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Es muss keine andere Software installiert werden",
+            "content": "Sie müssen keine Software auf Ihren Computer oder Ihr Mobilgerät herunterladen oder installieren, um unser Resizer-Image auf 1000x1000 Dimensionen zu verwenden. Unser Tool zur Größenanpassung von Bildern auf 1000x1000 ist vollständig webbasiert, sodass Sie es jederzeit verwenden können. Fügen Sie einfach die URL unserer Website in Ihren Browser ein und verwenden Sie sie nach Bedarf."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "So ändern Sie die Größe eines Bilds",
+        "steps": [
+            "Klicken Sie auf Datei auswählen, um das Bild von Ihrem Gerät hochzuladen, oder klicken Sie auf die Dropdown-Schaltfläche, um es von Dropbox oder Google Drive hochzuladen.",
+            "Passen Sie die Abmessungen und das Format des Bilds gemäß Ihren gewünschten Spezifikationen an.",
+            "Um die von Ihnen vorgenommenen Änderungen anzuzeigen, klicken Sie auf Vorschau.",
+            "Speichern Sie Ihre Änderungen, indem Sie auf die Schaltfläche Änderungen speichern klicken.",
+            "Um das Bild mit der Größe zu erhalten, klicken Sie auf die Schaltfläche Herunterladen."
+        ]
+    },
+  
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

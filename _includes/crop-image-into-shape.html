@@ -1,0 +1,47 @@
+{%- assign shapes = site.data.shapes.shapes.shapes -%}
+<div class="title">
+    Crop Image into Shapes
+</div>
+<div class="crop-options">
+    <div class="options-title my-2">Choose Shape:</div>
+    <div class="shapes">
+        {%- for item in shapes -%}
+        <div class="list-shapes">
+            <div class="row">
+                {%- for i in item.data -%}
+                <div class="col-4 mb-3 ">
+                    <button id="{{i.name}}" class="shape">
+                        <img src="{{i.value}}" alt="">
+                    </button>
+                </div>
+                {%- endfor -%}
+            </div>
+        </div>
+        {%- endfor -%}
+    </div>
+
+</div>
+<div class="options-title mt-2">
+    Cropping Area:
+</div>
+<div class="row">
+
+    <div class="col-lg-6">
+        <div class="crop-input-title">Width</div>
+        <div class="crop-input">
+            <input type="number" disabled id="crop-width">
+            <span>px</span>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="crop-input-title">Height</div>
+        <div class="crop-input">
+            <input disabled type="number" id="crop-height">
+            <span>px</span>
+        </div>
+    </div>
+</div>
+<div class="row my-3" id="media-dimensions">
+</div>
+</div>
+<input class="d-none" onchange="fileOnChange()" type="file" id="file" accept=".webp,.png,.jpg,.jpeg,.gif" />

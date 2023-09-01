@@ -1,0 +1,32 @@
+<div class="options-panel">
+    <div class="title">
+        Crop Image
+    </div>
+    <div class="col-12">
+        <div class="row my-3" id="media-dimensions">
+
+        </div>
+    </div>
+    <div class="options-title mt-2">
+        Cropping Area:
+    </div>
+    <div class="row">
+
+        <div class="col-lg-6">
+            <div class="crop-input-title">Width</div>
+            <div class="crop-input">
+                <input type="number" id="crop-width">
+                <span>px</span>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="crop-input-title">Height</div>
+            <div class="crop-input">
+                <input type="number" id="crop-height">
+                <span>px</span>
+            </div>
+        </div>
+    </div>
+</div>
+<input class="d-none" data-type="{{page.type}}" onchange="fileOnChange()" type="file" id="file"
+    accept=".webp,.png,.jpg,.jpeg,.gif" />

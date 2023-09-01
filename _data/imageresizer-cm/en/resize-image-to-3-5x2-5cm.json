@@ -1,0 +1,110 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Resize your image to 3.5x2.5 centimeter online for free",
+  "img": "/img/resize.png",
+  "imgwidth": "35px",
+  "imgheight": "35px",
+  "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "warning",
+  "H2": "Upload image to resize it to 3.5x2.5 centimeter",
+  "TITLE": "Resize images to 3.5x2.5 centimeter without losing quality - Best free image resizer",
+  "META": "Resize your images to 3.5x2.5 centimeter instantly without losing quality. This free 3.5x2.5 centimeter image resizer tool allows you to resize images in JPG, JPEG, PNG & WEBP formats needing you to login.",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "color": "#0D66D0",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "images resize in centimeter",
+        "links": [
+          {
+            "name": "Resize image to 3.5x1.5 centimeter",
+            "iconSrc": "/img/resize.png",
+            "url": "/resize-image-to-3-5x1-5cm"
+          },
+          {
+            "name": "Resize image to 3.5x2.5 centimeter",
+            "iconSrc": "/img/resize.png",
+            "url": "/resize-image-to-3-5x2-5cm"
+          },
+          {
+            "name": "Resize image to 3.5x3.5 centimeter",
+            "iconSrc": "/img/resize.png",
+            "url": "/resize-image-to-3-5x3-5cm"
+          },
+          {
+            "name": "Resize image to 3.5x3.5 centimeter",
+            "iconSrc": "/img/resize.png",
+            "url": "/resize-image-to-3-5x3-5cm"
+          },
+          {
+            "name": "Resize image to 4.5x3.5 centimeter",
+            "iconSrc": "/img/resize.png",
+            "url": "/resize-image-to-4-5x3-5cm"
+          }
+        ]
+      }
+    ]
+  },
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/highquality.png",
+      "header": "High-Quality",
+      "content": "With the aid of our resizer image to 3.5x2.5 dimensions tool, it is possible to resize images in centimeter without losing their quality. Because the expanded image has the same aspect ratio as the original image, it is not necessary to crop the image. Even non-technical people can complete the procedure because there are no technical requirements. It also offers you a preview of the scaled image, which allows you to complete the resizing procedure in the most efficient manner possible."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/security.png",
+      "header": "It's easy to use",
+      "content": "This resizer image to 3.5x2.5 dimensions tool in centimeter is very easy to use. To begin with, the user interface is quite plain and easy. You won't have to guess where to start editing because everything is in one place. Furthermore, our resizer image to 3.5x2.5 dimensions tool is free of advertisements, resulting in a more pleasant user experience for the end-user"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/flexible.png",
+      "header": "Data Privacy and Security",
+      "content": "When you use the resizer image to 3.5x2.5 dimensions tool, no data is uploaded to our systems or used for any marketing purposes. All actions taken when using the resizer image to 3.5x2.5 dimensions tool are carried out entirely within the browser. As a result, we are able to provide complete security to all of our customers, making our resizer image to 3.5x2.5 dimensions tool dependable and risk-free to use in any situation"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/userfriendly.png",
+      "header": "Totally free",
+      "content": "You don't need to register or sign in to use the image resizing tool to convert images to 3.5x2.5 dimensions. You don't have to pay to use our resizer image to 3.5x2.5 dimensions tool. You can resize your images to the 3.5x2.5 dimensions as many times as you wish"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/free.png",
+      "header": "Adaptability",
+      "content": "The resizer image to 3.5x2.5 dimensions tool is compatible with a wide range of common browsers, including Chrome, Safari, Firefox, Microsoft Edge, and others. When you use the resizer image to 3.5x2.5 dimensions tool, it will automatically adjust to any screen size, making it conveniently accessible for you on your desktop computer, tablet computer, or mobile phone, depending on your preferences"
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/nodownload.png",
+      "header": "There's no need to install any other software",
+      "content": "You do not need to download or install any software on your computer or mobile device to use our resizer image to 3.5x2.5 dimensions tool. Our resizer image to 3.5x2.5 dimensions tool is completely web-based, so you may use it at any time. Simply paste our website's URL into your browser and use it as needed"
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "",
+     "steps": []
+  },
+    "FAQ": [
+    {
+        "question": "",
+        "answer": ""
+    }
+  ],
+  "jscdns": [
+    "<script src='/assets/js/googledrive.js'></script>",
+    "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+  ],
+  "csscdns": [
+    "<link rel='stylesheet' href='/css/utils.css' />",
+    "<link rel='stylesheet' href='/css/image-resize.css' />",
+    "<link rel='stylesheet' href='/css/image-resize-cm.css' />"
+  ]
+}

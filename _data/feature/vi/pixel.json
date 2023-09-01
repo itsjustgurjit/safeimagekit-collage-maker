@@ -1,0 +1,77 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "H1": "Nhà sản xuất nghệ thuật pixel dựa trên web miễn phí",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "Bắt đầu chuyển đổi hình ảnh của bạn thành pixel art, bằng cách tải hình ảnh của bạn lên bên dưới",
+    "TITLE": "Pixel art maker - Sử dụng công cụ này để tạo điểm ảnh nghệ thuật từ hình ảnh của bạn",
+    "META": "Nhà sản xuất nghệ thuật pixel trực tuyến đơn giản và miễn phí, với nhiều tùy chọn để tạo ra hình ảnh nghệ thuật pixel tốt nhất cho bạn",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Chất lượng cao",
+            "content": "Công cụ chuyển đổi hình ảnh sang nghệ thuật điểm ảnh của chúng tôi chuyển đổi hình ảnh thành điểm ảnh nghệ thuật bằng cách giữ lại chất lượng của nó."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Bảo mật dữ liệu",
+            "content": "Không có dữ liệu nào của bạn được gửi trên máy chủ của chúng tôi tất cả các hoạt động được thực hiện trên chính trình duyệt. Điều này cho phép chúng tôi an toàn 100% cho người dùng"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibilty",
+            "content": "Công cụ chuyển đổi hình ảnh để pixel art của chúng tôi hoạt động trên hầu hết các loại trình duyệt và thiết bị.Trình tạo nghệ thuật điểm ảnh này dựa trên web và được hỗ trợ các trình duyệt bao gồm Microsoft Edge, Chrome, Safari, Firefox, và một số người nổi tiếng khác."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Thân thiện với người dùng",
+            "content": "Công cụ chuyển đổi hình ảnh sang pixel art của chúng tôi rất dễ hiểu. Không có chuyên gia là cần thiết để làm việc trên công cụ của chúng tôi. Bất kỳ người nào có thể sử dụng máy phát điện nghệ thuật điểm ảnh này một cách dễ dàng bất cứ lúc nào."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Miễn phí",
+            "content": "Công cụ chuyển đổi hình ảnh sang pixel art của chúng tôi hoàn toàn miễn phí. Bạn có thể sử dụng tất cả các công cụ của chúng tôi mà không phải trả một xu duy nhất. Sử dụng một máy phát điện nghệ thuật điểm ảnh khác được yêu cầu đăng ký để làm điều đó nhưng máy phát điện nghệ thuật điểm ảnh này có thể làm điều đó miễn phí."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Không tải thêm",
+            "content": "Công cụ chuyển đổi hình ảnh để điểm ảnh nghệ thuật của chúng tôi là hoàn toàn dựa trên trình duyệt và không có phần mềm bổ sung được yêu cầu để được tải về trên thiết bị của bạn.Sử dụng này pixel art generator trên bất kỳ thiết bị như điện thoại di động, tab hoặc máy tính mà không cần tải về."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Làm thế nào để chuyển đổi hình ảnh của chúng tôi để pixel art.",
+        "steps": [
+            "Tải lên hình ảnh hoặc Nhấp vào mũi tên thả xuống và chọn Dropbox/Google Drive",
+            "Xem nhanh nghệ thuật điểm ảnh bằng cách cuộn xuống.",
+            "Nhấn tùy chọn “lưu” để lưu các thay đổi được thực hiện. ",
+            "Tải về ảnh nghệ thuật bằng cách sử dụng tùy chọn tải xuống.",
+            "Hurray! nghệ thuật pixel đã sẵn sàng để sử dụng."
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "H1": "Ücretsiz web tabanlı piksel sanat yapımcısı",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "Resminizi aşağıya yükleyerek resminizi piksel resmine dönüştürmeye başlayın",
+    "TITLE": "Pixel art maker - Resminizden piksel sanatı oluşturmak için bu aracı kullanın",
+    "META": "Sizin için en iyi piksel sanat görüntüsünü oluşturmak için birden fazla seçeneğe sahip basit ve ücretsiz çevrimiçi piksel sanat üreticisi",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Yüksek Kalite",
+            "content": "Resmden piksele sanat dönüştürme aracımız, kalitesini koruyarak görüntüleri piksel sanatına dönüştürür."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Veri Güvenliği",
+            "content": "Verilerinizin hiçbiri sunucularımıza gönderilmez, tüm işlemler tarayıcının kendisinde yapılır. Bu, kullanıcılarımız için% 100 güvenli olmamızı sağlar"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Esneklik",
+            "content": "Bizim görüntü piksel sanat dönüştürme aracı tarayıcılar ve cihazlar hemen hemen her türlü çalışır. Bu piksel sanat jeneratör web tabanlı ve desteklenen tarayıcılar Microsoft Edge, Chrome, Safari, Firefox ve diğer tanınmış olanları bir dizi içerir."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Kullanıcı dostu",
+            "content": "Resimden piksele sanat dönüştürme aracımızın anlaşılması çok kolaydır. Aracımız üzerinde çalışmak için hiçbir profesyonele gerek yoktur. Herhangi bir kişi bu piksel sanat jeneratörünü istediği zaman kolayca kullanabilir."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Ücretsiz",
+            "content": "Resimden piksele sanat dönüştürme aracımız tamamen ücretsizdir. Tüm araçlarımızı tek bir kuruş ödemeden kullanabilirsiniz. Başka bir piksel sanatı oluşturucu kullanarak bunu yapmak için bir abonelik istenir, ancak bu piksel sanatı oluşturucu bunu ücretsiz olarak yapabilir."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Ek indirme yok",
+            "content": "Resimden piksele sanat dönüştürme aracımız tamamen tarayıcı tabanlıdır ve cihazınıza indirilmesi için ek bir yazılım gerekmez. Bu piksel sanatı oluşturucuyu mobil, sekme veya PC gibi herhangi bir cihazda indirmeden kullanın."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Resmimizi piksel sanatına nasıl dönüştürebilirim?",
+        "steps": [
+            "Resmi yükleyin veya açılır oka tıklayın ve Dropbox/Google Drive'ı seçin",
+            "Aşağı kaydırarak piksel resmine bir göz atın.",
+            "Yapılan değişiklikleri kaydetmek için “kaydet” seçeneğine basın. ",
+            "İndirme seçeneğini kullanarak piksel resMINI indirin.",
+            "Yaşasın!! piksel sanatı kullanıma hazırdır."
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

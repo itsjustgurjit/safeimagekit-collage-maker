@@ -1,0 +1,378 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "H1": "Zmiana rozmiaru obrazu w trybie online do wymiarów 5x8 ",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "ostrzeżenie",
+    "H2": "Zmień rozmiar obrazu do 5X8 jak profesjonalista za pomocą tego narzędzia.",
+    "TITLE": "Zmień rozmiar obrazu -Najlepsze narzędzie, aby zmienić rozmiar obrazu do 5X8 łatwo.",
+    "META": "Zmień rozmiar obrazu do 5X8 w prosty sposób dzięki temu prostemu w użyciu narzędziu. Najlepsze narzędzie do zmiany rozmiaru obrazu zgodnie z wymaganiami. Uzyskaj pożądany rezultat bez żadnych ograniczeń. To magiczne narzędzie zmienić rozmiar obrazu do x za pomocą kilku kliknięć. Nie trzeba instalować żadnego oprogramowania.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "obrazy o rozmiarze w calach",
+                "links": [
+                    {
+                        "name": "rezyster obrazu do 3x5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "rezyster obrazu do 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 5x7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "rezyster obrazu do 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 11x14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "rezyster obrazu do 11x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "rezyster obrazu do 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "rezyster obrazu do 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "rezyster obrazu do 20x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "rezyster obrazu do 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "rezyster obrazu do 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "rezyster obrazu do 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "rezyster obrazu do 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "rezyster obrazu do 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "rezyster obrazu do 30x40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "zmiany rozmiaru obrazów w pikselach",
+                "links": [
+                    {
+                        "name": "rezyster obrazu do 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "rezyster obrazu do 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "rezyster obrazu na 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "rezyster obrazu do 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "rezyster obrazu do 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "rezyster obrazu do 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "rezyster obrazu do 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "rezyster obrazu do 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "rezyster obrazu do 500x500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "rezyster obrazu do 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "rezyster obrazu do 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "rezyster obrazu do 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "rezyster obrazu do 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "rezyster obrazu na 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1200x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "rozmiar obrazu do 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "rezyster obrazu do 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "rezyster obrazu do 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "rezyster obrazu do 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "rezyster obrazu do 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "rezyster obrazu do 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "rezyster obrazu do 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "rezyster obrazu do 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/pl/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Jak zmienić rozmiar obrazu",
+        "steps": [
+            "Prześlij obraz lub kliknij strzałkę w dół i wybierz Dropbox/Dysk Google, aby wybrać plik w dostępnym miejscu.",
+            "Dostosuj parametry, aby uzyskać lepszą jakość obrazu.\n",
+            "Wciśnij „Podgląd”, aby przejrzeć wprowadzone zmiany.",
+            "Zapisz wprowadzone zmiany.",
+            "Hurra! obraz jest gotowy do użycia."
+        ]
+    },
+  
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/image-resize.css\" />"
+    ]
+}

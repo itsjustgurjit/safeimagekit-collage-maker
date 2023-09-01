@@ -1,0 +1,77 @@
+{
+    "Language": "العربية",
+    "htmlLangAtt": "ar",
+    "H1": "صانع فن البكسل المجاني على شبكة الإنترنت",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "ابدأ في تحويل صورتك إلى فن البكسل، عن طريق تحميل صورتك أدناه",
+    "TITLE": "صانع فن البكسل - استخدم هذه الأداة لإنشاء فن البكسل من صورتك",
+    "META": "صانع فن البكسل البسيط والمجاني عبر الإنترنت، مع خيارات متعددة لإنشاء أفضل صورة فنية بالبكسل لك",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "جودة عالية",
+            "content": "تقوم أداة تحويل الصور إلى فن البكسل الخاصة بنا بتحويل الصور إلى فن البكسل من خلال الحفاظ على جودتها."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "أمان البيانات",
+            "content": "لا يتم إرسال أي من بياناتك على خوادمنا، وتتم جميع العمليات على المتصفح نفسه. وهذا يتيح لنا أن نكون آمنين بنسبة 100٪ لمستخدمينا"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "المرونة",
+            "content": "تعمل أداة تحويل الصور إلى البكسل الخاصة بنا على جميع أنواع المتصفحات والأجهزة تقريبًا. مولد فن البكسل هذا قائم على الويب والمتصفحات المدعومة تشمل Microsoft Edge و Chrome و Safari و Firefox وعدد من المتصفحات المعروفة الأخرى."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "سهل الاستخدام",
+            "content": "من السهل جدًا فهم أداة تحويل الصور إلى فن البكسل. ليس هناك حاجة إلى محترف للعمل على الأداة الخاصة بنا. يمكن لأي شخص استخدام مولد فن البكسل هذا بسهولة في أي وقت."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "خالية من التكلفة",
+            "content": "أداة تحويل الصور إلى فن البكسل الخاصة بنا مجانية تمامًا. يمكنك استخدام جميع أدواتنا دون دفع فلس واحد. يُطلب استخدام مولد فن البكسل الآخر للاشتراك للقيام بذلك ولكن يمكن لمولد فن البكسل هذا القيام بذلك مجانًا."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "لا يوجد تنزيل إضافي",
+            "content": "تعتمد أداة تحويل الصور إلى فن البكسل الخاصة بنا تمامًا على المتصفح ولا يلزم تنزيل أي برامج إضافية على جهازك. استخدم مولد فن البكسل هذا على أي جهاز مثل الهاتف المحمول أو علامة التبويب أو الكمبيوتر الشخصي دون تنزيل."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "كيفية تحويل صورتنا إلى فن البكسل.",
+        "steps": [
+            "قم بتحميل الصورة أو انقر فوق سهم القائمة المنسدلة وحدد Dropbox/Google Drive",
+            "احصل على لمحة عن فن البكسل من خلال التمرير لأسفل.",
+            "اضغط على خيار «حفظ» لحفظ التغييرات التي تم إجراؤها. ",
+            "قم بتنزيل فن البكسل باستخدام خيار التنزيل.",
+            "مرحى!! فن البكسل جاهز للاستخدام."
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

@@ -1,0 +1,416 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-tw",
+    "H1": "免費在線 1500x2100 尺寸圖像調整大小（以像素為單位）",
+    "keywords": "resize image to 1500x2100",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "警告",
+    "H2": "快速將圖像大小調整到 1500x2100 尺寸的最佳工具",
+    "TITLE": "將圖像大小調整到 1500x2100 維度（以像素為單位），而不會失去質量-最佳免費在線工具",
+    "META": "立即調整圖像大小至 1500x2100 的比例，而不會失去其質量。這個免費的調整大小圖片 1500x2100 工具允許您下載 JPG，JPEG，PNG 和 WEBP 格式調整大小的圖像，無需任何登錄要求。",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "以英寸為單位的圖像調整大小",
+                "links": [
+                    {
+                        "name": "將圖像大小調整為 3x5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "將圖像大小調整為 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "將圖像調整為 5x7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "將圖像大小調整為 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "將圖像調整為 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "將圖像調整為 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "將圖像調整大小為 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "將圖像大小調整為 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "將圖像大小調整為 11x14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "將圖像大小調整為 11x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "將圖像大小調整為 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "將圖像調整為 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "將圖像大小調整為 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "將圖像大小調整為 20x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "將圖像大小調整為 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "將圖像大小調整為 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "將圖像大小調整為 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "將圖像大小調整為 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "將圖像大小調整為 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "將圖像大小調整為 30x40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "像素中的圖像調整大小",
+                "links": [
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "將圖像調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "將圖像大小調整為 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "將圖像大小調整為 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "將圖像大小調整為 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "將圖像大小調整為 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "將圖像大小調整為 150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "將圖像調整為 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "將圖像調整為 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "將圖像大小調整為 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "將圖像大小調整為 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "將圖像大小調整為 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "將圖像大小調整為 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "將圖像大小調整為 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "將圖像大小調整為 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "將圖像大小調整為 500 倍 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "將圖像大小調整為 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "將圖像大小調整為 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "將圖像大小調整為 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "將圖像大小調整為 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "將圖像調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "將圖像調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "將圖像調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "將圖像大小調整為 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "將圖像大小調整為 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "將圖像調整為 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "將圖像大小調整為 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "將圖像大小調整為 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "將圖像調整為 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "將圖像大小調整為 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "將圖像大小調整為 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "將圖像大小調整為 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "將圖像大小調整為 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "將圖像大小調整為 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "將圖像大小調整為 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/zh-tw/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "高品質",
+            "content": "藉助我們的大小調整到 1500x2100 尺寸工具的大小，可以調整圖像大小（以像素為單位），而不會丟失其質量。由於展開的圖像具有與原始圖像相同的寬高比，因此不需要裁剪圖像。即使是非技術人員也可以完成程序，因為沒有技術要求。它還為您提供縮放圖像的預覽，使您能夠以儘可能高效的方式完成調整大小過程。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "它易於使用",
+            "content": "這個調整大小圖像到 1500x2100 尺寸工具（以像素為單位）非常容易使用。首先，用户界面非常簡單和簡單。您不必猜測從哪裏開始編輯，因為所有內容都在一個地方。此外，我們的尺寸調整到 1500x2100 尺寸工具的尺寸工具沒有廣告，從而為最終用户帶來更愉快的用户體驗。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "數據隱私和安全",
+            "content": "當您使用尺寸調整到 1500x2100 尺寸工具時，不會將任何數據上傳到我們的系統或用於任何營銷目的。使用尺寸調整尺寸尺寸工具的尺寸調整器圖像時所採取的所有操作都完全在瀏覽器中執行。因此，我們能夠為所有客户提供完整的安全性，使我們的尺寸調整到 1500x2100 尺寸工具可靠且無風險地在任何情況下使用。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "完全免費",
+            "content": "您無需註冊或登錄即可使用圖像調整大小工具將圖像轉換為 1500x2100 尺寸。您無需付費即可使用我們的尺寸調整至 1500x2100 尺寸工具的尺寸調整圖片。您可以根據需要多次將圖片大小調整為 1500x2100 尺寸。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "適應性",
+            "content": "調整大小圖像到 1500x2100 尺寸工具與各種常見瀏覽器兼容，包括 Chrome 瀏覽器，Safari 瀏覽器，火狐瀏覽器，微軟邊緣等。當您使用尺寸調整到 1500x2100 尺寸工具時，它將自動調整到任何屏幕尺寸，使您可以在台式計算機、平板電腦或手機上方便地訪問它，具體取決於您的喜好。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "無需安裝任何其他軟件",
+            "content": "您無需在您的計算機或移動設備上下載或安裝任何軟件即可使用我們的尺寸調整至 1500x2100 尺寸工具。我們的尺寸調整到 1500x2100 尺寸工具的尺寸工具是完全基於網絡的，因此您可以隨時使用它。只需將我們網站的 URL 粘貼到您的瀏覽器中，並根據需要使用它。"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "如何調整圖像大小",
+        "steps": [
+            "點擊選擇文件從您的設備上傳圖片，或點擊下拉按鈕從 Dropbox 或 Google 雲端硬盤上傳。",
+            "根據您需要的規格調整圖像的尺寸和格式。",
+            "要查看所做的更改，請單擊「預覽」。",
+            "單擊「保存更改」按鈕保存更改。",
+            "要獲取調整大小的圖像，請單擊「下載」按鈕。"
+        ]
+    },
+    
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

@@ -1,0 +1,41 @@
+{%- assign boxColor = site.data[page.folderName][page.lang][page.fileName].color -%}
+<div class="options-panel">
+    <div class="title">
+        Bulk Image Resizer
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            <div class="image-input-title">Width</div>
+            <div class="image-input">
+                <input type="number" value="40" id="image-width">
+                <span>px</span>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="image-input-title">Height</div>
+            <div class="image-input">
+                <input type="number" value="40" id="image-height">
+                <span>px</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="download-format d-none">
+        <span class="select-format-title">image's format</span>
+        <select name="image-format" id="image-format">
+            <option value="png">png</option>
+            <option value="jpg">jpg</option>
+            <option value="jpeg">jpeg</option>
+            <option value="webp">webp</option>
+
+        </select>
+    </div>
+
+    <div class="convertBtn-container">
+        <button style="background-color:{{boxColor}};" class="btn" id="submit-button">
+            Convert
+            <img src="/assets/images/convert.svg" width="20px" alt="convert-files">
+        </button>
+    </div>
+</div>

@@ -1,0 +1,416 @@
+{
+    "Language": "Українська",
+    "htmlLangAtt": "uk",
+    "H1": "Безкоштовний онлайн Розмір розміру зображення розміром 42x59 в пікселях",
+    "keywords": "resize image to 42x59",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "попередження",
+    "H2": "Кращий інструмент для зміни розміру зображень до розмірів 42x59 швидко",
+    "TITLE": "Змініть розмір зображень до розмірів 42x59 у пікселях без втрати якості - Кращий безкоштовний онлайн-інструмент",
+    "META": "Змініть розмір ваших зображень до співвідношення 42x59 миттєво, не втрачаючи їх якості. Це безкоштовне зміна розміру зображення для 42x59 інструмент дозволяє завантажувати змінений розмір зображення у форматах JPG, JPEG, PNG та WEBP без будь-яких вимог до входу.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "зображення змінювачі в дюймах",
+                "links": [
+                    {
+                        "name": "розмір зображення до 3x5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 5x7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "розмір зображення до 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "розмір зображення до 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 11x14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 11x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "розмір зображення до 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "розмір зображення до 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 20x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "розмір зображення до 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "розмір зображення до 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "розмір зображення до 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "розмір зображення до 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 30x40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "змінювачі зображень у пікселях",
+                "links": [
+                    {
+                        "name": "зміна розміру зображення до 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "розмір зображення до 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "розмір зображення до 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "розмір зображення на 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "зміна розміру зображення в 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "розмір зображення до 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 500x500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "розмір зображення на 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "розмір зображення до 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "розмір зображення на 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1024х768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "розмір зображення на 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "розмір зображення на 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "розмір зображення на 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "розмір зображення до 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "зміна розміру зображення до 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "зміна розміру зображення на 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/uk/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Висока якість",
+            "content": "За допомогою нашого інструмента розмірів розміру resizer до 42x59 можна змінювати розмір зображень у пікселях, не втрачаючи їх якості. Оскільки розширене зображення має таке ж співвідношення сторін, як і вихідне зображення, не потрібно обрізати зображення. Завершити процедуру можуть навіть нетехнічні люди, оскільки немає технічних вимог. Він також пропонує вам попередній перегляд масштабованого зображення, що дозволяє завершити процедуру зміни розміру найбільш ефективним способом."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Це простий у використанні",
+            "content": "Цей інструмент вимірювання розміру зображення розміром 42x59 у пікселях дуже простий у використанні. Почнемо з того, що користувальницький інтерфейс досить простий і простий. Вам не доведеться гадати, з чого почати редагування, тому що все в одному місці. Крім того, наш інструмент вимірювання розміру зображення розміром 42x59 не містить реклами, що призводить до більш приємного користувацького досвіду для кінцевого користувача."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Конфіденційність та безпека даних",
+            "content": "Коли ви використовуєте зображення resizer до інструмента розмірів 42x59, дані не завантажуються в наші системи або використовуються для будь-яких маркетингових цілей. Всі дії, вжиті при використанні зображення resizer до 42x59 розміри інструменту, виконуються повністю в межах браузера. Як результат, ми можемо забезпечити повну безпеку для всіх наших клієнтів, що робить наше зображення розміру розміром 42x59 інструмент надійним і без ризиковим для використання в будь-якій ситуації."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Абсолютно безкоштовно",
+            "content": "Вам не потрібно реєструватися або входити, щоб використовувати інструмент зміни розміру зображення для перетворення зображень у розміри 42x59. Вам не потрібно платити за використання нашого зображення зміни розміру до інструмента розмірів 42x59. Ви можете змінити розмір своїх зображень до розмірів 42x59 стільки разів, скільки ви хочете."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Адаптивність",
+            "content": "Розмір зображення розміру 42x59 інструмент сумісний з широким спектром поширених браузерів, включаючи Chrome, Safari, Firefox, Microsoft Edge та інші. Коли ви використовуєте Resizer зображення для 42x59 розміри інструменту, він автоматично підлаштовується під будь-який розмір екрану, що робить його зручно доступним для вас на настільному комп'ютері, планшетному комп'ютері або мобільному телефоні, залежно від ваших уподобань."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Немає необхідності встановлювати будь-яке інше програмне забезпечення",
+            "content": "Вам не потрібно завантажувати або встановлювати будь-яке програмне забезпечення на свій комп'ютер або мобільний пристрій, щоб використовувати наш інструмент зміни розміру зображення розміром 42x59. Наш інструмент розміру зображення розміром 42x59 повністю веб-основі, тому ви можете використовувати його в будь-який час. Просто вставте URL-адресу нашого веб-сайту у свій браузер і використовуйте його за потребою."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Як змінити розмір зображення",
+        "steps": [
+            "Натисніть Вибрати файл, щоб завантажити зображення зі свого пристрою, або натисніть спадну кнопку, щоб завантажити з Dropbox або Google Drive.",
+            "Налаштуйте розміри та формат зображення відповідно до бажаних специфікацій.",
+            "Щоб переглянути внесені зміни, натисніть «Попередній перегляд».",
+            "Збережіть зміни, натиснувши кнопку «Зберегти зміни».",
+            "Щоб отримати змінений розмір зображення, натисніть кнопку Завантажити."
+        ]
+    },
+    
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

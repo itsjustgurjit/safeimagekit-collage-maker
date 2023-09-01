@@ -1,0 +1,85 @@
+<div class="row divider">
+  <div class="col-12">
+    <div class="title">
+      Pixel Image
+    </div>
+    <div class="options-title ">
+      Image Size:
+    </div>
+  </div>
+  <div class="col-lg-6 mb-2">
+    <div class="pixel-input-title">Max Width</div>
+    <div class="pixel-input">
+      <input type="number" id="maxwidth">
+      <span>px</span>
+    </div>
+  </div>
+  <div class="col-lg-6 mb-2">
+    <div class="pixel-input-title">Max Height</div>
+    <div class="pixel-input">
+      <input type="number" id="maxheight">
+      <span>px</span>
+    </div>
+  </div>
+</div>
+<div class="row divider">
+  <div class="col-12">
+    <div class="options-title">
+      Block Size:
+    </div>
+    <div>
+      <div class="block-wrapper">
+        <input class="custom-range" value="2" type="range" min="2" max="25" id="blocksize">
+        <div id="blockvalue">2</div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+<div class="row divider">
+  <div class="col-12">
+    <div class="options-title ">
+      Filters:
+    </div>
+    <div class="filter-wrapper">
+      <label> <input class="form-check-input" type="checkbox" id="greyscale"> <span class="checkbox-checkmark"></span>
+        <span style="margin-left: 29px;">
+          Greyscale
+        </span> </label>
+      <label class="mb-0 pb-0"> <input class="form-check-input" type="checkbox" id="palette"> <span
+          class="checkbox-checkmark"></span> <span style="margin-left: 29px;">
+          Enable palette
+        </span> </label>
+
+    </div>
+
+  </div>
+
+</div>
+<div class="row divider" id="palettes">
+  <div class="col-12">
+    <div class="options-title ">
+      Select Palette:
+    </div>
+    <div class="infoselects">
+      <div class="colorpalette">
+        <div class="text">
+
+          <select name="paletteselector" id="paletteselector"></select>
+        </div>
+        <div class="icons" id="palettecolor">
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row divider">
+  <div class="col-12">
+    <button id="reset"> <span><i class="fas fa-sync-alt"></i></span> Reset </button>
+  </div>
+</div>
+<input class="d-none" onchange="fileOnChange()" type="file" id="file" accept=".webp,.png,.jpg,.jpeg,.gif" />
+<span id="get-detail" style="display: none;" data-height="{{page.height | default: 0}}"
+  data-width="{{page.width | default: 0}}"></span>

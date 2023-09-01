@@ -1,0 +1,55 @@
+<div class="title">
+    Crop Image
+</div>
+<div class="crop-options">
+    <div class="options-title my-2">Crop for:</div>
+    <div class="drop-down-cont">
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                data-toggle="dropdown" aria-expanded="false">
+                Freely
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <div class="dropdown-item media-crop" id="freely"> <i class="fab fa-facebook"></i>
+                    Freely
+                </div>
+                <div class="dropdown-item media-crop" id="facebook"> <i class="fab fa-facebook"></i>
+                    Facebook
+                </div>
+                <div class="dropdown-item media-crop" id="instagram"> <i class="fab fa-instagram"></i>Instagram
+                </div>
+                <div class="dropdown-item media-crop" id="linkedin"> <i class="fab fa-linkedin"></i>Linkedin</div>
+                <div class="dropdown-item media-crop" id="twitter"> <i class="fab fa-twitter"></i>Twitter</div>
+                <div class="dropdown-item media-crop" id="tumblr"> <i class="fab fa-tumblr"></i>Tumblr</div>
+                <div class="dropdown-item media-crop" id="youtube"> <i class="fab fa-youtube"></i>Youtube</div>
+                <div class="dropdown-item media-crop" id="snapchat"> <i class="fab fa-snapchat"></i>Snapchat</div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="options-title mt-2">
+    Cropping Area:
+</div>
+<div class="row">
+
+    <div class="col-lg-6">
+        <div class="crop-input-title">Width</div>
+        <div class="crop-input">
+            <input type="number" id="crop-width">
+            <span>px</span>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="crop-input-title">Height</div>
+        <div class="crop-input">
+            <input type="number" id="crop-height">
+            <span>px</span>
+        </div>
+    </div>
+</div>
+<div class="row my-3" id="media-dimensions">
+
+</div>
+<input class="d-none" data-platform="{{page.socialplatform}}" onchange="fileOnChange()" type="file" id="file"
+    accept=".webp,.png,.jpg,.jpeg,.gif" />

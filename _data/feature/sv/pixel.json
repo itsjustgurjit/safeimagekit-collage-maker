@@ -1,0 +1,77 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "H1": "Gratis webbaserad pixel art maker",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "Börja konvertera din bild till pixelkonst genom att ladda upp din bild nedan",
+    "TITLE": "Pixel art maker - Använd det här verktyget för att skapa pixelkonst från din bild",
+    "META": "Enkel och gratis pixelkonsttillverkare online, med flera alternativ för att skapa bästa pixelkonstbild för dig",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Hög kvalitet",
+            "content": "Vårt konverteringsverktyg för bild till pixelkonst konverterar bilderna till pixelkonst genom att behålla dess kvalitet."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Säkerhet för data",
+            "content": "Ingen av dina data skickas på våra servrar, alla operationer görs i webbläsaren själv. Detta gör att vi kan vara 100% säkra för våra användare"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibilitet",
+            "content": "Vår bild till pixelkonst konverteringsverktyg fungerar på nästan alla typer av webbläsare och enheter.Denna pixelkonstgenerator är webbaserad och stödda webbläsare inkluderar Microsoft Edge, Chrome, Safari, Firefox och ett antal andra välkända."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Användarvänlig",
+            "content": "Vårt konverteringsverktyg för bild till pixel konst är mycket lätt att förstå. Ingen professionell behövs för att arbeta med vårt verktyg. Varje person kan använda denna pixelkonstgenerator enkelt när som helst."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Kostnadsfritt",
+            "content": "Vårt konverteringsverktyg för bild till pixel konst är helt gratis. Du kan använda alla våra verktyg utan att betala ett enda öre. Med hjälp av en annan pixelkonstgenerator ombeds en prenumeration för att göra det men denna pixelkonstgenerator kan göra det gratis."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Ingen ytterligare nedladdning",
+            "content": "Vår bild till pixel art konverteringsverktyg är helt webbläsarbaserat och ingen ytterligare programvara krävs för att laddas ner på din device.Use denna pixel art generator på alla enheter som mobil, flik eller PC utan att ladda ner."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Hur konverterar vi vår bild till pixelkonst.",
+        "steps": [
+            "Ladda upp bilden eller klicka på rullgardinspilen och välj Dropbox/Google Drive",
+            "Få en blick av pixelkonsten genom att bläddra ner.",
+            "Tryck på alternativet ”spara” för att spara de ändringar som gjorts. ",
+            "Ladda ner pixelbilden med nedladdningsalternativet.",
+            "Hurra!! pixelkonsten är klar att användas."
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

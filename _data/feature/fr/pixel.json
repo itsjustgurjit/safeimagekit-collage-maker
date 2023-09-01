@@ -1,0 +1,77 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "H1": "Créateur de pixel art gratuit basé sur le Web",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "Commencez à convertir votre image en pixel art en téléchargeant votre image ci-dessous",
+    "TITLE": "Pixel Art Maker - Utilisez cet outil pour créer du pixel art à partir de votre image",
+    "META": "Créateur de pixel art en ligne simple et gratuit, avec de multiples options pour créer la meilleure image de pixel art pour vous",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "De haute qualité",
+            "content": "Notre outil de conversion d'image en pixel art convertit les images en pixel art en préservant leur qualité."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Sécurité des données",
+            "content": "Aucune de vos données n'est envoyée sur nos serveurs, toutes les opérations sont effectuées sur le navigateur lui-même. Cela nous permet d'être 100 % en sécurité pour nos utilisateurs"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Flexibilité",
+            "content": "Notre outil de conversion d'images en pixel art fonctionne sur presque tous les types de navigateurs et d'appareils. Ce générateur de pixel art est basé sur le Web et les navigateurs pris en charge incluent Microsoft Edge, Chrome, Safari, Firefox et un certain nombre d'autres navigateurs connus."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Facile à utiliser",
+            "content": "Notre outil de conversion d'image en pixel art est très facile à comprendre. Aucun professionnel n'est nécessaire pour travailler sur notre outil. Toute personne peut utiliser ce générateur de pixel art facilement à tout moment."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Gratuit",
+            "content": "Notre outil de conversion d'image en pixel art est entièrement gratuit. Vous pouvez utiliser tous nos outils sans payer un seul centime. L'utilisation d'un autre générateur de pixel art est demandée pour un abonnement pour le faire, mais ce générateur de pixel art peut le faire gratuitement."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Aucun téléchargement supplémentaire",
+            "content": "Notre outil de conversion d'images en pixel art est entièrement basé sur un navigateur et aucun logiciel supplémentaire n'est requis pour être téléchargé sur votre appareil. Utilisez ce générateur de pixel art sur n'importe quel appareil (mobile, tablette ou PC) sans téléchargement."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Comment convertir notre image en pixel art.",
+        "steps": [
+            "Téléchargez l'image ou cliquez sur la flèche déroulante et sélectionnez Dropbox/Google Drive",
+            "Jetez un coup d'œil au pixel art en faisant défiler la page vers le bas.",
+            "Cliquez sur l'option « Enregistrer » pour enregistrer les modifications apportées. ",
+            "Téléchargez le pixel art à l'aide de l'option de téléchargement.",
+            "Hourra ! le pixel art est prêt à être utilisé."
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "Sample images generator",
+    "H2": "Generate sample images of and download using single click",
+    "TITLE": "Sample images generator",
+    "META": "Generate sample images of any size and download using single click",
+    "img": "https://cdn-icons-png.flaticon.com/512/1829/1829586.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "BREADCRUMB_LABEL": "",
+    "color": "#41B8FE",
+    "jscdns": [
+        "<script src='/js/x-y-pixels-images.js'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/x-y-pixels-images.css' />"
+    ]
+}

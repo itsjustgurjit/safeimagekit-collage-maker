@@ -1,0 +1,75 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "Image 8bit art maker onlie",
+    "H2": "Free online tool to make image 8bit art online",
+    "TITLE": "Make your own 8bit art with this easy to use online image 8bit artmaker.",
+    "META": "Create unique 8bit art for your website or blog with this easy-to-use online image maker.",
+    "img": "https://cdn-icons-png.flaticon.com/512/1829/1829589.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "crop-image",
+    "nofileupload": true,
+    "variant": "primary",
+    "BREADCRUMB_LABEL": "",
+    "color": "#4CAF50",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/assets/bulb.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/guaranty.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/support.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/protect.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/easy.svg",
+            "header": "",
+            "content": ""
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/assets/cloud.svg",
+            "header": "",
+            "content": ""
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "",
+         "steps": []
+    },
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "cssfilepaths": [
+        "/assets/css/common.css",
+        "/assets/css/image-8bit-art-maker.css"
+    ],
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>"
+    ],
+    "jsfilepaths": [
+        "/assets/js/image-8bit-art-maker.js"
+    ]
+}

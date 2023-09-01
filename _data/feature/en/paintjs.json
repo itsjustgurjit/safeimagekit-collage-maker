@@ -1,0 +1,17 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "Open-Source online jspaint",
+    "nofileupload": true,
+    "variant": "danger",
+    "imgalt": "altvalue",
+    "H2": "Js paint for creating and editing picture files online",
+    "TITLE": "Simple and powerful online replica of MS Paint",
+    "META": "Create masterpieces with online js paint. You can edit images quickly. Online js paint is a remake of windows microsoft paint program with extra features.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff6666",
+    "cssfilepaths": [
+      "/css/jspaint.css"
+    ]
+  }

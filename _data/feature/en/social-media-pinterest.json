@@ -1,0 +1,221 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Best image resizer tool for pinterest available online for free ",
+  "img": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+  "imgwidth": "35px",
+  "imgheight": "35px",
+  "imgalt": "altvalue",
+  "nofileupload": true,
+  "variant": "warning",
+  "h2": "Upload and resize your image for pinterest in one click",
+  "TITLE": "Resize image for pinterest | Online Image resizer tool ",
+  "META": "Looking for a free and online image resizer for  pinterest? Visit our website and resize image for pinterest in few seconds.",
+  "LABEL": "",
+  "BREADCRUMB_LABEL": "",
+  "color": "#ff884d",
+  "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown": [
+      {
+        "categoryName": "Social media resizers",
+        "links": [
+          {
+            "name": "Facebook image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+            "url": "/image-resize-facebook"
+          },
+          {
+            "name": " Instagram image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/instagram.svg",
+            "url": "/image-resize-instagram"
+          },
+          {
+            "name": " Linkedin image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/linkdin.svg",
+            "url": "/image-resize-linkedin"
+          },
+          {
+            "name": " Email image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/gmail.svg",
+            "url": "/image-resize-email"
+          },
+          {
+            "name": " Tiktok image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/tiktok.svg",
+            "url": "/image-resize-tiktok"
+          },
+          {
+            "name": " Twitter image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitter.svg",
+            "url": "/image-resize-twitter"
+          },
+          {
+            "name": " Pinterest image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/pinterest.svg",
+            "url": "/image-resize-pinterest"
+          },
+          {
+            "name": "Snapchat image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/snapchat.svg",
+            "url": "/image-resize-snapchat"
+          },
+          {
+            "name": " Google Banner Ads image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/google.svg",
+            "url": "/image-resize-google-banner-ads"
+          },
+          {
+            "name": " Discord image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/discord.svg",
+            "url": "/image-resize-discord"
+          },
+          {
+            "name": " SoundCloud image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/soundcloud.svg",
+            "url": "/image-resize-soundcloud"
+          },
+          {
+            "name": " Whatsapp image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/whatsapp.svg",
+            "url": "/image-resize-whatsapp"
+          },
+          {
+            "name": " squarespace image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/squarespace.svg",
+            "url": "/image-resize-squarespace"
+          },
+          {
+            "name": " Twitch image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/twitch.svg",
+            "url": "/image-resize-twitch"
+          },
+          {
+            "name": " Printing image resizer",
+            "iconSrc": "/img/imageResizer-assets/iconsForLanding/printing.svg",
+            "url": "/image-resize-printing"
+          }
+        ]
+      }
+    ]
+  },
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/assets/lightbulb.svg",
+      "header": "Easy to use",
+      "content": "Our free Pinterest Image Resizer tool is very simple to use. You don't need any prior knowledge. You don't even need to sign up. Just upload the image, choose from the 6 Pinterest image sizes as required and voila! You'll be done."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/target.svg",
+      "header": "Free for everyone",
+      "content": "The Pinterest Image Resizer feature is free to use for anybody and everybody. You don't need to pay us to use it. You can use it to resize your Pinterest images as per your requirements."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cross.svg",
+      "header": "Provides cross-platform support",
+      "content": "Our Image Resizer feature is completely web-based. That is why, it provides our users cross-platform support. So it can be used across all types of devices and all Operating systems."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/shield.svg",
+      "header": "Reliable and Safe",
+      "content": "All of your data and files are deleted right away after you are done. Our online free tool doesn't save any of the user data. So it is completely trustworthy and safe."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/fast.svg",
+      "header": "Fast and efficient",
+      "content": "Ours is the most comprehensive tool for resizing Pinterest photos according to your requirements. Whether you want you photo to be as per the size of Pinterest profile picture, or board display, we have it all. And our tool will work in a very fast and efficient manner."
+    },
+    {
+      "priority": 1,
+      "logoUrl": "/assets/cloud_new.svg",
+      "header": "Multiple resizing options available",
+      "content": "Our Pinterest Image Resizer tool has multiple resizing options available. Based on how you want your picture to be resized, there are 6 generic options that we provide according to the different picture types possible in Pinterest. You can choose one or multiple options."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "How to resize your images",
+    "steps": [
+      "Upload the image that you want to resize to our Pinterest Image Resizer.",
+      "Select the appropriate size or multiple sizes, whichever you need.",
+      "Hit the download all to download all available sizes.",
+      "Hit the download selected button to download selected image sizes. That's it, it's that simple."
+    ]
+  },
+  "FAQ": [
+    {
+      "question": "How to resize images for pinterest?",
+      "answer": "Go to our website, Pinterest Image Resizer, to resize your Pinterest image. Upload your picture and you can see how exactly your picture will look as  Picture. If you still need to made adjustments, click on edit and make the required adjustments. Download the picture once you are happy with the image. Once you upload the picture on Pinterest Image Resizer from safeimagekit.com you can zoom in / zoom out using two finger scroll to cale to fit your Pinterest profile picture. Once you are satisfied with the fit, click on download to download your picture."
+    },
+    {
+      "question": "How can I adjust the height of the image using the Pinterest image resizer feature from safeimagekit.com?",
+      "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the height. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the height of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
+    },
+    {
+      "question": "What are the features offered by the Pinterest image resizer tool from safeimagekit.com while, adjusting the size of the images?",
+      "answer": "Pinterest image resizer from safeimagekit.com offers versatile features while sizing an image uploaded for editing. The main features include-\n-\tCreating multiple versions of the image in different categories.\n-\tEdit each of the image quality separately.\n-\tAdjusting the size of an image with respect to the width.\n-\tAdjusting the size of an image with respect to the height.\n-\tComplete resizing of the image and downloading them.\n-\tEdit the images and download the selected ones or all the image categories,\nThe important info here is that our image dimensions are super precise."
+    },
+    {
+      "question": "Does the resize option of the Pinterest image resizer feature from safeimagekit.com provide any type of preview after resizing the uploaded image file?",
+      "answer": "No, currently the resizing feature of photo splitter from safeimagekit.com does not provide any kind of preview of the sections of the uploaded image, because sometimes the sections of the uploaded image go overboard and it becomes very difficult for the browser to handle the preview of each section of the image but, the image can be viewed after the editing is done and can be downloaded. Though, updates to the website in the future will add all the exciting features."
+    },
+    {
+      "question": "What are the different image categories available in the Pinterest image resizer offered by Safeimagekit.com?",
+      "answer": "The Pinterest image resizer offers image editing options in multiple sections where a user can upload his/her image in the Pinterest app/website, these categories include-\n-\tPinterest portrait carousel.\n-\tPinterest profile photo.\n-\tPinterest square carousel.\n-\tPinterest story pins.\n-\tPinterest vertical pin.\n-\tPinterest board display."
+    },
+    {
+      "question": "How can I adjust the width of the image using the Pinterest image resizer feature from safeimagekit.com?",
+      "answer": "The first step of all, upload the image which requires an edit. The next step includes adjusting the important parameters of the image, this includes adjusting the width. Now, to access this option you need to select a category from all the versions and hit the edit option to begin the editing then, there will be a pop-up wherein you can drag in and adjust the width of the image. The bonus option is that we can zoom in and out, to control the required content of the image just by scrolling in and out."
+    },
+    {
+      "question": "How can I resize an image using the Pinterest image resizer feature from safeimagekit.com?",
+      "answer": "There are 6 steps that the user can refer to while resizing an image file,\nThese include-\n-\tUpload the image file which requires a change.\n-\tSelect the required category of the image from the options provided.\n-\tHit edit, to start adjusting the image by its height and width.\n-\tIf you like multiple image categories, just select them by clicking a box on the top right corner of each image version.\n-\tHit the “download selected” to download a particular/multiple versions.\n-\tHit the “download all” to download all the image versions out there."
+    },
+    {
+      "question": "Can I use the Pinterest image resizer feature from safeimagekit.com on my Windows 8?",
+      "answer": "The Pinterest image resizer feature is a versatile feature offered by safeimagekit.com which is supported by all the operating systems out there such as Windows 8, Linux, and even Ubuntu. All it takes is a device to open the extension file using the www.safeimagekit.com website and a normal internet connection to stand on. The fun fact is that it can even run on a slower internet connection."
+    },
+    {
+      "question": "Can I use the Pinterest image resizer feature from safeimagekit.com on my Android device? ",
+      "answer": "Yes, the Pinterest image resizer feature from safeimagekit.com is a cross-platform-based feature where the user can use this converter tool from operating systems such as Android, iOS, Windows, and Mac OS. It is independent of the operating systems used but only depends on the internet connection."
+    },
+    {
+      "question": "Can we resize the image files which are locked, using the Pinterest image resizer feature from safeimagekit.com?",
+      "answer": "No, we cannot upload the image file which is locked as the access to that image file is blocked. So, to use the Pinterest image resizer feature from safeimagekit.com we need to upload the image files which are not locked. But the user can check the password finder extension from safeimagekit.com which is exclusively made for unlocking image as well as image files in case the user loses his password for his locked image file."
+    },
+    {
+      "question": "Do we have to use any additional software to download the modified images after conversion using the Pinterest image resizer feature from safeimagekit.com?",
+      "answer": "No, the users after resizing their image by modifying their respective image parameters, can hit the download the option which is given below and can download the modified image. It is a browser-based converter tool that does not support, or no additional software is required to download the modified image."
+    },
+    {
+      "question": "What will happen to our progress if we refresh our browser while we are using the Pinterest image resizer tool from safeimagekit.com?",
+      "answer": "The Pinterest image resizer tool from safeimagekit.com is not connected to any server out there, so the data which the user is working on will not be stored anywhere and as a result, it will be erased instantly when the user refreshes the browser which he is working on. The image file which is being converted will also be removed after the user exits or closes the tab on which the extension page of the website is open."
+    },
+    {
+      "question": "Will my uploaded image files corrupt after resizing the image files using The Pinterest image resizer file feature from safeimagekit.com?",
+      "answer": "No, safeimagekit.com is built with all the latest programs and security features which does not allow the uploaded image files to corrupt. So, the uploaded image files are completely safe and secured."
+    },
+    {
+      "question": "How do I communicate if I face any issues or if I want to give any suggestions?",
+      "answer": "We gladly take in any issue or suggestions offered by all the users, please contact us through our social media handles for more information. Safeimagekit.com is available on all the leading social media websites such as Facebook, Instagram, YouTube, and LinkedIn, etc."
+    }
+  ],
+  "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>"
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"/css/utils.css\" />"
+  ],
+  "filelang": "en",
+  "display_formats": [
+    "jpg",
+    "jpeg",
+    "png",
+    "webp"
+  ]
+}

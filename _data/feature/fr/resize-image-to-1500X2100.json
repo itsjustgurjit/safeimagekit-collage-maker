@@ -1,0 +1,416 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "H1": "Redimensionneur d'image 1500x2100 en ligne gratuit en pixels",
+    "keywords": "resize image to 1500x2100",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "avertissement",
+    "H2": "Meilleur outil pour redimensionner rapidement des images aux dimensions 1500x2100",
+    "TITLE": "Redimensionner les images aux dimensions 1500x2100 en pixels sans perte de qualité - Meilleur outil en ligne gratuit",
+    "META": "Redimensionnez instantanément vos images au format 1500 x 2100 sans perte de qualité. Cet outil gratuit de redimensionnement d'image en 1500x2100 vous permet de télécharger les images redimensionnées aux formats JPG, JPEG, PNG et WEBP sans aucune obligation de connexion.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",  
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "redimensionneurs d'images en pouces",
+                "links": [
+                    {
+                        "name": "image de redimensionnement en 3x5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "image de redimensionnement en 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "image de redimensionnement à 5x7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "image de redimensionnement en 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "image de redimensionnement en 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "image de redimensionnement en 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "image de redimensionnement en 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "image de redimensionnement à 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "image de redimensionnement à 11x14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "image de redimensionnement à 11x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "image de redimensionnement à 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "image de redimensionnement à 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "image de redimensionnement à 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "image de redimensionnement à 20x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "image de redimensionnement en 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "image de redimensionnement en 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "image de redimensionnement en 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "image de redimensionnement à 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "image de redimensionnement à 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "image de redimensionnement à 30x40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "redimensionneurs d'images en pixels",
+                "links": [
+                    {
+                        "name": "image de redimensionnement à 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "image de redimensionnement à 32 x 32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "image de redimensionnement à 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "image de redimensionnement à 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "image de redimensionnement à 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "image de redimensionnement à 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "image redimensionneur à 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "image de redimensionnement à 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "image de redimensionnement à 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "image de redimensionnement à 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "image de redimensionnement à 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "image de redimensionnement à 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "image de redimensionnement à 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "image de redimensionnement à 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "image de redimensionnement à 500 x 500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "image de redimensionnement à 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "image de redimensionnement à 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "image de redimensionnement à 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "image de redimensionnement à 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "image de redimensionnement à 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "image redimensionneur à 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "image redimensionneur à 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "image redimensionneur à 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1200 x 1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "image redimensionneur à 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "image de redimensionnement vers 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "image de redimensionnement à 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "image de redimensionnement vers 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "image de redimensionnement vers 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "image de redimensionnement à 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "image de redimensionnement à 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "image de redimensionnement à 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "image redimensionneur à 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "image de redimensionnement à 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "image de redimensionnement à 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/fr/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Haute qualité",
+            "content": "À l'aide de notre outil de redimensionnement d'image aux dimensions 1500x2100, il est possible de redimensionner les images en pixels sans perte de qualité. L'image agrandie ayant le même rapport hauteur/largeur que l'image d'origine, il n'est pas nécessaire de recadrer l'image. Même des personnes non techniques peuvent effectuer la procédure car il n'y a pas d'exigences techniques. Il vous offre également un aperçu de l'image mise à l'échelle, ce qui vous permet d'effectuer la procédure de redimensionnement de la manière la plus efficace possible."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "C'est facile à utiliser",
+            "content": "Cet outil de redimensionnement d'image aux dimensions 1500x2100 en pixels est très facile à utiliser. Pour commencer, l'interface utilisateur est assez simple et simple. Vous n'aurez pas à deviner par où commencer le montage, car tout se trouve au même endroit. De plus, notre outil de redimensionnement d'image aux dimensions 1500x2100 ne comporte pas de publicité, ce qui permet à l'utilisateur final de bénéficier d'une expérience utilisateur plus agréable."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Confidentialité et sécurité des données",
+            "content": "Lorsque vous utilisez l'outil de redimensionnement de l'image aux dimensions 1500 x 2100, aucune donnée n'est téléchargée sur nos systèmes ou utilisée à des fins de marketing. Toutes les actions entreprises lors de l'utilisation de l'outil Redimensionner l'image aux dimensions 1500x2100 sont entièrement effectuées dans le navigateur. En conséquence, nous sommes en mesure de fournir une sécurité complète à tous nos clients, rendant notre outil de redimensionnement d'image aux dimensions 1500x2100 fiable et sans risque à utiliser dans toutes les situations."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Totalement gratuit",
+            "content": "Vous n'avez pas besoin de vous enregistrer ou de vous connecter pour utiliser l'outil de redimensionnement d'image afin de convertir des images aux dimensions 1500 x 2100. Vous n'avez pas à payer pour utiliser notre outil de redimensionnement d'image aux dimensions 1500x2100. Vous pouvez redimensionner vos images aux dimensions 1500 x 2100 autant de fois que vous le souhaitez."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Adaptabilité",
+            "content": "L'outil de redimensionnement de l'image aux dimensions 1500x2100 est compatible avec un large éventail de navigateurs courants, notamment Chrome, Safari, Firefox, Microsoft Edge et autres. Lorsque vous utilisez l'outil de redimensionnement de l'image aux dimensions 1500x2100, il s'ajuste automatiquement à n'importe quelle taille d'écran, ce qui la rend facilement accessible sur votre ordinateur de bureau, tablette ou téléphone portable, selon vos préférences."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Il n'est pas nécessaire d'installer d'autres logiciels",
+            "content": "Vous n'avez pas besoin de télécharger ou d'installer de logiciel sur votre ordinateur ou appareil mobile pour utiliser notre outil de redimensionnement d'image aux dimensions 1500x2100. Notre outil de redimensionnement d'image aux dimensions 1500x2100 est entièrement basé sur le Web, vous pouvez donc l'utiliser à tout moment. Il suffit de coller l'URL de notre site Web dans votre navigateur et de l'utiliser au besoin."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Comment redimensionner une image",
+        "steps": [
+            "Cliquez sur Choisir un fichier pour télécharger l'image depuis votre appareil ou cliquez sur le bouton déroulant pour télécharger depuis Dropbox ou Google Drive.",
+            "Ajustez les dimensions et le format de l'image selon les spécifications souhaitées.",
+            "Pour voir les modifications que vous avez apportées, cliquez sur Aperçu.",
+            "Enregistrez vos modifications en cliquant sur le bouton Enregistrer les modifications.",
+            "Pour obtenir l'image redimensionnée, cliquez sur le bouton Télécharger."
+        ]
+    },
+    
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

@@ -1,0 +1,134 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "H1": "Best online tool for  free profile picture cropper",
+  "img": "/img/crop.png",
+  "keywords": "profile picture cropper,profile picture crop",
+  "imgwidth": "40px",
+  "imgheight": "40px",
+  "imgalt": "crop-image",
+  "nofileupload": true,
+  "variant": "primary",
+  "H2": "Upload and crop your profile with just  one click",
+  "LABEL": "profile picture cropper",
+  "TITLE": "Fastest online tool for profile picture cropper",
+  "META": "Upload and crop the images for the profile photo using a free online tool like profile picture cropper in easy steps.",
+  "BREADCRUMB_LABEL": "",
+  "color": "#ff704d",
+  "TEXTUAL_CONTENT": [
+    {
+      "priority": 1,
+      "logoUrl": "/img/featureproperty/highquality.png",
+      "header": "High Quality",
+      "content": "Our profile picture cropper tool crops the profile picture by retaining its quality."
+    },
+    {
+      "priority": "2",
+      "logoUrl": "/img/featureproperty/security.png",
+      "header": "Data Security",
+      "content": "None of the data is saved on our server; all the operations are made on the browser itself. This enables us to be 100% safe for our users."
+    },
+    {
+      "priority": "3",
+      "logoUrl": "/img/featureproperty/flexible.png",
+      "header": "Flexibility",
+      "content": "Our profile picture cropper tool works on almost all kinds of browsers and devices."
+    },
+    {
+      "priority": "4",
+      "logoUrl": "/img/featureproperty/userfriendly.png",
+      "header": "User friendly",
+      "content": "Our profile picture cropper tool is very easy to understand. No professional experts are required to work on the tool."
+    },
+    {
+      "priority": "5",
+      "logoUrl": "/img/featureproperty/free.png",
+      "header": "Free of cost",
+      "content": "Our profile picture cropper tool is completely free of cost; you can use all our tools without paying a single penny."
+    },
+    {
+      "priority": "6",
+      "logoUrl": "/img/featureproperty/nodownload.png",
+      "header": "No additional download",
+      "content": "Our profile picture cropper tool is completely browser-based, and no additional software is required to be downloaded on your device."
+    }
+  ],
+  "HOW_TO_CONTENT": {
+    "logoImageUrl": "/idea.svg",
+    "heading": "How to crop the profile picture.",
+    "steps": [
+      "Upload the image file by downloading the profile picture.",
+      "Adjust the parameters by making the best utilization of the options available.",
+      "Adjust the image.",
+      "Punch the save option to save the changes.",
+      "Download the image file by hitting on the download option.",
+      "Hurray !!! The cropped profile image is ready to use further."
+    ]
+  },
+  "FAQ": [
+    {
+      "question": "Does the site ask for any signup or payment to use the profile picture cropper tool?",
+      "answer": "No, our tool is completely online and free. The tool does not ask for any further payments."
+    },
+    {
+      "question": "Does the platform save the cropped profile picture inside the tool itself for the example basis?",
+      "answer": "No, the tool does not send or save any of your files to our servers. All the operations are performed by the browser itself; therefore, all your files are completely safe."
+    },
+    {
+      "question": "Is there any risk of corruption by using the profile picture cropper tool?",
+      "answer": "No, the profile picture cropper tool is built with all the latest programs and security features which does not allow the uploaded image files to be corrupt. So, the uploaded image files are safe and secure."
+    },
+    {
+      "question": "Is the profile picture cropper tool Apple iPhone 11 supportive?",
+      "answer": "Yes, the profile picture cropper tool is a cross-platform-based feature, where the user can use this cropping tool from operating systems such as Android, iOS, Windows, and Mac OS."
+    },
+    {
+      "question": "How many images can be cropped at a single attempt?",
+      "answer": "Currently, the tool can edit and crop a single profile picture, as this tool demands decent parameters while editing. Multiple image editing features are not supported."
+    },
+    {
+      "question": "In case any text is present on the image, can it be edited on the profile picture cropper tool?",
+      "answer": "No, on the present availability, the profile picture cropper tool can only crop the profile picture; it can also convert the format of the image from one format to another. The text editing feature is not available in the tool yet."
+    },
+    {
+      "question": "Does the profile picture cropper tool support the LINUX operating system?",
+      "answer": "Yes, the profile picture cropper tool can be utilized on any operating system that includes LINUX as well. The tool is built with the latest code and features, which enables the user to crop a picture uploaded by the user on any operating system, such as MAC OS, Windows, and Ubuntu as well."
+    },
+    {
+      "question": "How does the quality adjustment work of the profile picture cropper tool?",
+      "answer": "The quality adjustment option of the profile picture cropper tool is an essential feature that allows the user to decide the overall quality of the image. This tool can adjust the sharpness, contrast, blur, and many other image parameters on the whole. The user can decide on the measurement from 0.1 to 1 scale. If he doesn’t want any change in the quality of the cropped image, this option can be ignored as well."
+    },
+    {
+      "question": "What are the image adjusting features provided by the profile picture cropper tool?",
+      "answer": "The profile picture cropper tool provides many features while cropping a profile picture. It lets the user adjust the dimensions of the image by adjusting the measurements such as height and length. The convert size option lets the user crop the whole image."
+    },
+    {
+      "question": "What are the parameters provided by the profile picture cropper tool after we upload an image?",
+      "answer": "The profile picture cropper tool offers various parameters after we upload a profile picture; these parameters include the name of the image, shape of the image, type of the image, etc. The parameter also gives us the time, date, and time zone where it was last modified."
+    },
+    {
+      "question": "What are the features offered by the “profile picture cropper tool”?",
+      "answer": "The profile picture cropper tool facilitates versatile features while cropping the profile picture. The profile picture cropper tool also offers cropping by entering size, which can be extended to max or min depending on the image uploaded. The profile picture cropper tool also provides the option to adjust the quality of the image. The tool can also edit the picture with various filtrations."
+    },
+    {
+      "question": "How can we upload the image file?",
+      "answer": "Punch on the drop-down arrow and choose the image from dropbox/Google drive. Select the Google account from where you want to retrieve the image. Now you can select the files you want to upload. First of all, you have to save the profile picture from cropping it."
+    },
+    {
+      "question": "Is providing access to the drive safe?",
+      "answer": "Yes, providing access is absolutely safe for your drive. The tool doesn’t make any changes to your site, and thus, your file will be safe."
+    }
+  ],
+  "jscdns": [
+    "<script src=\"/assets/js/googledrive.js\"></script>"
+  ],
+  "jsfilepaths": [
+    "/js/cropper.min.js",
+    "/js/avatar-cropper.js"
+  ],
+  "csscdns": [
+    "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+    "<link rel=\"stylesheet\" href=\"/css/avatar-cropper.css\" />",
+    "<link rel=\"stylesheet\" href=\"/css/cropper.min.css\" />"
+  ]
+}

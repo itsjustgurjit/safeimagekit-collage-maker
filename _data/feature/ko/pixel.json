@@ -1,0 +1,77 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "H1": "무료 웹 기반 픽셀 아트 메이커",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "아래에 이미지를 업로드하여 이미지를 픽셀 아트로 변환하세요",
+    "TITLE": "픽셀 아트 메이커 - 이 도구를 사용하여 이미지에서 픽셀 아트를 만들 수 있습니다.",
+    "META": "최고의 픽셀 아트 이미지를 만들 수 있는 다양한 옵션을 제공하는 간단하고 무료 온라인 픽셀 아트 메이커",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "고품질",
+            "content": "이미지를 픽셀 아트로 변환하는 도구는 품질을 유지하여 이미지를 픽셀 아트로 변환합니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "데이터 보안",
+            "content": "귀하의 데이터는 당사 서버로 전송되지 않으며 모든 작업은 브라우저 자체에서 수행됩니다.이를 통해 우리는 사용자에게 100% 안전할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "유연성",
+            "content": "당사의 이미지를 픽셀 아트로 변환하는 도구는 거의 모든 종류의 브라우저 및 장치에서 작동합니다. 이 픽셀 아트 생성기는 웹 기반이며 Microsoft Edge, Chrome, Safari, Firefox 및 기타 잘 알려진 브라우저를 포함하는 지원되는 브라우저입니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "사용자 친화적",
+            "content": "이미지를 픽셀 아트로 변환하는 도구는 이해하기 매우 쉽습니다.전문가가 아니어도 도구를 사용할 수 있습니다. 모든 사람이 언제든지 이 픽셀 아트 생성기를 쉽게 사용할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "비용 무료",
+            "content": "이미지를 픽셀 아트로 변환하는 도구는 완전히 무료입니다.한 푼도 지불하지 않고도 모든 도구를 사용할 수 있습니다. 다른 픽셀 아트 생성기를 사용하려면 구독이 필요하지만 이 픽셀 아트 생성기는 무료로 사용할 수 있습니다."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "추가 다운로드 없음",
+            "content": "이미지를 픽셀 아트로 변환하는 도구는 완전히 브라우저 기반이며 장치에 추가 소프트웨어를 다운로드할 필요가 없습니다. 이 픽셀 아트 생성기를 모바일, 탭 또는 PC와 같은 모든 장치에서 다운로드하지 않고도 사용할 수 있습니다."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "이미지를 픽셀 아트로 변환하는 방법.",
+        "steps": [
+            "이미지를 업로드하거나 드롭다운 화살표를 클릭하고 드롭박스/Google 드라이브를 선택합니다.",
+            "아래로 스크롤하여 픽셀 아트를 한 눈에 볼 수 있습니다.",
+            "변경 사항을 저장하려면 “저장” 옵션을 누르십시오. ",
+            "다운로드 옵션을 사용하여 픽셀 아트를 다운로드합니다.",
+            "만세!!픽셀 아트를 사용할 준비가 되었습니다."
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

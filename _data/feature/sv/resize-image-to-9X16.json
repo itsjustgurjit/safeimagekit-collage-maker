@@ -1,0 +1,416 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "H1": "Gratis Online 9x16 dimensioner bildresizer i tum",
+    "keywords": "ändra storlek på bilden till 9x16",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "varning",
+    "H2": "Bästa verktyget för att ändra storlek på bilder till 9x16 dimensioner snabbt",
+    "TITLE": "Ändra storlek på bilder till 9x16 dimensioner i inches utan att förlora kvaliteten - Bästa gratis online-verktyg",
+    "META": "Ändra storlek på dina bilder till 9x16 förhållande direkt utan att förlora kvaliteten. Detta gratis 9x16 bildresizer verktyg kan du ladda ner storlek bilder i JPG, JPEG, PNG & WEBP-format utan inloggning krav. ",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "bildernas storlek i tum",
+                "links": [
+                    {
+                        "name": "resizer bild till 3x5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "resizer bild till 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "resizer bild till 5x7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "resizer bild till 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "resizer bild till 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "resizer bild till 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "resizer bild till 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "resizer bild till 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "resizer bild till 11x14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "resizer bild till 11x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "resizer bild till 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "resizer bild till 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "resizer bild till 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "resizer bild till 20x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "resizer bild till 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "resizer bild till 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "resizer bild till 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "resizer bild till 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "resizer bild till 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "resizer bild till 30x40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "bildernas storlek i pixel",
+                "links": [
+                    {
+                        "name": "resizer bild till 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "resizer bild till 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "resizer bild till 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "resizer bild till 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "resizer bild till 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "resizer bild till 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "resizer bild till 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "resizer bild till 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "resizer bild till 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "resizer bild till 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "resizer bild till 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "resizer bild till 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "resizer bild till 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "resizer bild till 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "resizer bild till 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "resizer bild till 500x500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "resizer bild till 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "resizer bild till 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "resizer bild till 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "resizer bild till 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "resizer bild till 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "resizer bild till 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "resizer bild till 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "resizer bild till 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "resizer bild till 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "resizer bild till 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "resizer bild till 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "resizer bild till 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "resizer bild till 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "resizer bild till 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "resizer bild till 1200x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "resizer bild till 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "resizer bild till 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "resizer bild till 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "resizer bild till 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "resizer bild till 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "resizer bild till 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "resizer bild till 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "resizer bild till 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "resizer bild till 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "resizer bild till 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "resizer bild till 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "resizer bild till 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "resizer bild till 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "resizer bild till 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/sv/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Håll bildkvaliteten hög",
+            "content": "Det är möjligt att ändra storlek på bilder i inches utan att kompromissa med deras kvalitet med hjälp av vår resizer bild till 9x16 dimensioner verktyg. Bildförhållandet för den förstorade bilden kommer att vara densamma som för originalbilden. Det finns inga tekniska krav, och även icke-tekniska användare kan slutföra proceduren. Den ger dig också en förhandsgranskning av storleken på bilden, så att du kan slutföra storleksändringsproceduren så smidigt som möjligt."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Enkel att använda",
+            "content": "Denna bildresizer 9x16 dimensioner verktyg i inches är mycket enkel att använda. Först och främst är användargränssnittet väldigt enkelt och okomplicerat. På grund av att allt är på ett ställe behöver du inte gissa var du ska börja redigera. Dessutom innehåller vår resizer bild till 9x16 dimensioner verktyg inga annonser, vilket resulterar i en trevligare användarupplevelse för slutanvändaren."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Sekretess och datasäkerhet",
+            "content": "Inga data överförs till våra servrar eller används för några marknadsföringsändamål när du använder resizer image till 9x16 dimensioner verktyg. Alla aktiviteter som utförs när du använder resizer bild till 9x16 dimensioner verktyg slutförs enbart i webbläsaren. Som ett resultat kan vi ge total säkerhet för alla våra kunder, vilket gör vår resizer image till 9x16 dimensioner verktyg pålitligt och helt säkert att använda i alla situationer."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Det är tillgängligt för alla utan kostnad",
+            "content": "Alla är välkomna att använda resizer bild till 9x16 dimensioner verktyg, och det finns inget krav på att registrera. Användning av vår resizer bild till 9x16 dimensioner verktyg är helt gratis, och vi debiterar dig inte något för det. När du använder resizer bild till 9x16 dimensioner verktyg, det finns ingen gräns för hur många gånger du kan ändra storlek på dina bilder."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Anpassningsförmåga",
+            "content": "Chrome, Safari, Firefox, Microsoft Edge och andra populära webbläsare stöds alla av resizer bild till 9x16 dimensioner verktyg. När du använder resizer bild till 9x16 dimensioner verktyg, kommer det att anpassa sig till vilken skärmstorlek som helst, vilket gör det lättillgängligt för dig på din stationära dator, surfplatta eller mobiltelefon."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Det krävs ingen ytterligare nedladdning",
+            "content": "För att kunna använda vår resizer image till 9x16 dimensioner verktyg, Vi kräver inte att du laddar ner eller installerar någon programvara på din dator eller mobila enhet. Vår resizer bild till 9x16 dimensioner verktyg är helt webbläsarbaserat, och du kan komma åt vår webbplats när som helst genom att bara ange vår URL i din webbläsare och använda verktyget efter behov."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Så här ändrar du storlek på en bild",
+        "steps": [
+            "Klicka på Välj fil för att ladda upp bilden från enheten eller klicka på rullgardinsknappen för att ladda upp från Dropbox eller Google Drive.",
+            "Justera bildens mått och format enligt önskade specifikationer.",
+            "Klicka på Förhandsgranska om du vill se ändringarna du har gjort.",
+            "Spara ändringarna genom att klicka på knappen Spara ändringar.",
+            "Klicka på knappen Hämta om du vill hämta den skalade bilden."
+        ]
+    },
+
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh016g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

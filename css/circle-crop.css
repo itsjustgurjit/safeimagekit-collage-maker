@@ -1,0 +1,111 @@
+.crop-input-title {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  color: #0f0c0c;
+  font-weight: 600;
+  margin: 4px 0px;
+  font-size: 15px;
+  text-align: left;
+}
+#crop-height,
+#crop-width {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  color: #0f0c0c;
+  border: 1px solid #ccc;
+  margin: 0px;
+  font-size: 18px;
+  padding: 5px 8px;
+  height: 34px;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+.crop-input {
+  display: flex;
+}
+.crop-input span {
+  padding: 6px 12px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  color: #555;
+  text-align: center;
+  background-color: #eee;
+  border: 1px solid #ccc;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+#dropdownMenuButton {
+  width: 100%;
+  text-align: left;
+  background: #fff;
+  height: 34px;
+  display: flex;
+  border-radius: 4px;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+  color: #0f0c0c;
+  border: 1px solid #ccc;
+}
+.media-choose {
+  padding: 6px;
+  height: 90px;
+  width: 90px;
+  border: 2px solid #e8e8e8;
+  background: 2px solid #e8e8e8;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+.media-choose .show-aspect {
+  background: #b6b6b6;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #444;
+}
+#media-dimensions .type {
+  font-weight: 700;
+  font-size: 0.8rem;
+  margin-top: 0.25rem;
+  line-height: 1.6;
+  text-transform: capitalize;
+}
+#media-dimensions .value {
+  font-size: 0.75rem;
+  color: #909090;
+}
+.dropdown-item i {
+  margin-right: 4px;
+}
+
+.list-crop-options {
+  max-height: 158px;
+  padding: 4px 15px;
+  width: 100%;
+}
+
+.shape {
+  width: 90px;
+  display: block;
+  height: 90px;
+  border: 2px solid #e8e8e8;
+  background: 2px solid #e8e8e8 !important;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px;
+  margin-right: 10px;
+}
+.shape img {
+  height: 100%;
+  width: 100%;
+}

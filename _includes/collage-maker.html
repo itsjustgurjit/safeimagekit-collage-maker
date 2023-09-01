@@ -1,0 +1,122 @@
+    <div class="d-flex" id="cont">
+      <div class="options-nav">
+        <section class="collage-menu">
+          <ul class="collage-menu-list">
+            <li id="templates-icon" class="collage-menu-item active">
+              <i class="fa-solid fa-table-cells-large"></i>Templates
+            </li>
+            <li id="style-icon" class="collage-menu-item">
+              <i class="fa-solid fa-pen-to-square"></i>Styling
+            </li>
+          </ul>
+        </section>
+      </div>
+      <div class="options">
+        <div class="templates">
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid1.svg" alt="" />
+            <div class="name">Template 1</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid2.svg" alt="" />
+            <div class="name">Template 2</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid3.svg" alt="" />
+            <div class="name">Template 3</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid4.svg" alt="" />
+            <div class="name">Template 4</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid5.svg" alt="" />
+            <div class="name">Template 5</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid6.svg" alt="" />
+            <div class="name">Template 6</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid7.svg" alt="" />
+            <div class="name">Template 7</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid8.svg" alt="" />
+            <div class="name">Template 8</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid9.svg" alt="" />
+            <div class="name">Template 9</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid10.svg" alt="" />
+            <div class="name">Template 10</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid11.svg" alt="" />
+            <div class="name">Template 11</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid12.svg" alt="" />
+            <div class="name">Template 12</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid13.svg" alt="" />
+            <div class="name">Template 13</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid14.svg" alt="" />
+            <div class="name">Template 14</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid15.svg" alt="" />
+            <div class="name">Template 15</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid16.svg" alt="" />
+            <div class="name">Template 16</div>
+          </div>
+          <div class="template">
+            <img src="/assets/collage-maker-images/grid17.svg" alt="" />
+            <div class="name">Template 17</div>
+          </div>
+          <!-- <div class="template">
+            <img src="/assets/collage-maker-images/grid18.svg" alt="" />
+            <div class="name">Template 18</div>
+          </div> -->
+          
+        </div>
+        <div class="styling" style="display: none">
+          <label> Background color: </label>
+          <input id="backgroundColorInput" type="color" value="#FFFFFF" />
+          <label>
+            Border radius:
+            <input
+              id="borderRadiusInput"
+              type="range"
+              min="0"
+              max="50"
+              value="5"
+            />
+          </label>
+          <label for="frameWidthInput">Frame Width: </label>
+          <input type="range" id="frameWidthInput" min="0" max="30" value="5" />
+          
+
+          <label for="gapInput">Grid Gap: </label>
+          <input type="range" id="gapInput" min="0" max="30" value="2" />
+
+        </div>
+      </div>
+      <div id="workspace">
+        <div id="canvasContainer">
+          <canvas id="canvas" width="500" height="500"></canvas>
+        </div>
+        <div id="workspace-btns">
+          <button id="clearButton" class="workspaceEditbtn">Clear</button>
+          <button id="downloadButton" class="workspaceEditbtn">Download</button>
+        </div>
+      </div>
+    </div>
+   

@@ -1,0 +1,102 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+- name: comments
+  type: boolean
+  label: Comments
+pages:
+- _posts/2022-03-25-how-to-make-the-perfect-twitter-image-size-it-s-always-an-up-to-date-guide-to-twitter.md
+- _posts/2022-03-28-what-are-the-ideal-image-dimensions-and-sizes-for-an-instagram.md
+- _posts/2022-04-10-are-the-optimum-image-sizes-for-a-linkedin-to-maximize-engagement.md
+- _posts/2022-04-10-the-most-useful-facebook-image-size-guide-2022.md
+- _posts/2022-04-14-the-impressive-pinterest-image-size-recommendation-in-2022.md
+- _posts/2022-04-14-what-is-the-ideal-image-size-for-youtube.md
+- _posts/2022-04-17-the-complete-guide-for-image-sizes-for-reddit.md
+- _posts/2022-04-17-the-complete-guide-for-image-sizes-for-tumblr.md
+- _posts/2022-04-17-the-ultimate-guide-to-image-sizes-for-snapchat-in-2022.md
+- _posts/2022-04-18-the-complete-guide-for-image-sizes-for-flickr.md
+- _posts/2022-04-18-the-complete-guide-for-image-sizes-for-tinder.md
+- _posts/2022-04-18-the-complete-guide-for-image-sizes-for-whatsapp.md
+- _posts/2022-04-19-the-complete-guide-for-image-sizes-for-wechat.md
+- _posts/2022-04-19-the-definitive-guide-for-image-sizes-for-telegram.md
+- _posts/2022-04-19-the-definitive-guide-for-image-sizes-for-tiktok.md
+- _posts/2022-04-20-complete-guide-to-image-sizes-for-etsy.md
+- _posts/2022-04-20-complete-guide-to-image-sizes-for-viber.md
+- _posts/2022-04-20-complete-guide-to-image-sizes-for-vimeo.md
+- _posts/2022-04-20-everything-to-know-about-image-sizes-for-squarespace.md
+- _posts/2022-04-20-the-definitive-guide-for-image-sizes-for-snapchat.md
+- _posts/2022-04-25-best-5-ascii-image-generators-to-use.md
+- _posts/2022-04-26-best-10-text-to-image-converters-to-use.md
+- _posts/2022-04-29-best-10-image-resize-tools-online-for-free.md
+- _posts/2022-05-02-best-online-gif-compressors-tool.md
+- _posts/2022-05-02-best-online-gif-compressors-tool.md
+- _posts/2022-05-05-list-of-best-5-image-compressors-available-at-free-of-cost.md
+- _posts/2022-05-06-list-of-top-image-splitter-tools-available-online.md
+- _posts/2022-05-13-compress-image-for-free-in-easy-steps-a-complete-guide.md
+- _posts/2022-05-15-list-of-top-5-image-resizer-available-online-for-free.md
+- _posts/2022-05-16-top-6-image-comparison-tool-online.md
+- _posts/2022-07-10-5-ways-to-save-images-from-google-docs-to-your-computer.md
+- _posts/2022-07-10-complete-guide-to-download-images-from-the-website-on-your-phone.md
+- _posts/2022-07-10-how-to-download-images-and-save-pictures-from-pinterest.md
+- _posts/2022-07-10-how-to-easily-download-twitter-images.md
+- _posts/2022-07-10-quick-guide-to-download-images-from-instagram.md
+- _posts/2022-08-03-all-you-need-to-know-about-facebook-3d-photos.md
+- _posts/2022-08-03-step-by-step-guide-to-downloading-images-from-google.md
+- _posts/blog posts/2021-07-28-a-list-of-10-best-meme-maker-apps-for-both-android-and-ios-users-this-2021.md
+- _posts/blog posts/2021-07-28-a-list-of-10-best-meme-maker-tools-that-are-absolutely-free-this-2021.md
+- _posts/blog posts/2021-07-28-comparing-online-qr-code-generator-tools-that-are-safe-for-the-users-both-free-and-paid.md
+- _posts/blog posts/2021-07-29-a-list-of-10-best-image-splitter-softwares-for-both-windows-and-mac-users-this-2021.md
+- _posts/blog posts/2021-07-29-a-list-of-best-free-image-compressing-softwares-for-both-windows-and-mac-users-this-2021.md
+- _posts/blog posts/2021-07-29-different-ways-to-remove-watermark-from-images-for-both-windows-and-mac-users.md
+- _posts/blog posts/2021-07-29-how-to-add-filters-to-photos-best-pro-tips-to-make-your-website-images-stand-out.md
+- _posts/blog posts/2021-07-29-how-to-create-a-qr-code-in-ms-excel.md
+- _posts/blog posts/2021-07-29-is-it-possible-to-reverse-a-filter-on-a-photo-what-are-the-steps-to-follow-in-order-to-achieve-it.md
+- _posts/blog posts/2021-09-22-best-image-compressor-plugins-for-wordpress.md
+- _posts/blog posts/2021-12-27-ascii-image-generator-tips-for-designing-texts-or-images-beautifully-with-ascii-art.md
+- _posts/blog posts/2021-12-27-five-minute-guide-to-resize-an-image-for-instagram.md
+- _posts/blog posts/2021-12-27-flipping-images-is-easier-than-you-think-how-to-flip-photos.md
+- _posts/blog posts/2021-12-27-gif-file-compression-save-your-compressed-file-without-losing-the-image-quality.md
+- _posts/blog posts/2021-12-27-how-to-resize-an-image-for-your-facebook-photos-here-s-how.md
+- _posts/blog posts/2021-12-27-how-to-resize-whatsapp-profile-picture-it-s-easier-than-you-think.md
+- _posts/blog posts/2021-12-27-meme-generator-top-12-online-tools-that-generate-high-quality-memes.md
+- _posts/blog posts/2021-12-27-online-image-compression-for-wordpress-how-to-compress-images-before-uploading.md
+- _posts/blog posts/2021-12-27-png-compression-online-5-best-methods-to-compress-png-images-free.md
+- _posts/blog posts/2021-12-27-simple-steps-discover-the-easiest-way-to-convert-text-to-image.md
+- _posts/blog posts/2021-12-27-the-pros-of-resizing-an-image-online-for-free.md
+- _posts/blog posts/2021-12-27-top-10-best-jpeg-compression-tool-online-for-free-with-complete-beginners-guidance.md
+- _posts/blog posts/2021-12-27-use-these-tools-to-resize-an-image-for-your-twitter.md
+- _posts/blog posts/2021-12-28-google-display-ads-the-10-most-common-google-banner-ad-sizes.md

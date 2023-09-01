@@ -1,0 +1,187 @@
+<div id="options_div" class="function_box">
+  <div class="options-title mb-2">
+    Resize Type:-
+  </div>
+  <ul class="nav nav-tabs" id="myTab" role="tablist">
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" id="strechy-tab" data-toggle="tab" href="#strechy" role="tab" aria-controls="strechy"
+        aria-selected="true">Strechy</a>
+    </li>
+    <li class="nav-item" role="presentation">
+      <a class="nav-link" id="auto-adjust-tab" data-toggle="tab" href="#auto-adjust" role="tab"
+        aria-controls="auto-adjust" aria-selected="true">Crop fit</a>
+    </li>
+    <li class="nav-item" role="presentation">
+      <a class="nav-link" id="fixed-tab" data-toggle="tab" href="#fixed" role="tab" aria-controls="fixed"
+        aria-selected="false">Fixed</a>
+    </li>
+
+  </ul>
+  <div class="tab-content" id="myTabContent">
+    <div class="tab-pane fade show active" id="strechy" role="tabpanel" aria-labelledby="strechy-tab">
+      <div class="row divider">
+        <div class="col-12">
+          <div class="options-title">
+            Slider:
+          </div>
+          <div>
+            <div class="block-wrapper">
+              <input class="custom-range" type="range" min="50" max="200" value="100" name="strech-range"
+                id="strech-range">
+              <div id="perc">100%</div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+    <div class="tab-pane fade" id="fixed" role="tabpanel" aria-labelledby="fixed-tab">
+      <div class="row divider">
+        <div class="col-12">
+          <div class="options-title ">
+            Background Color:
+          </div>
+          <div class="block-wrapper">
+            <input id="color" class="instance1 mr-1" type="text" value="#ffffff00" data-coloris>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="tab-pane fade" id="auto-adjust" role="tabpanel" aria-labelledby="auto-adjust-tab">
+      <div class="d-flex">
+      </div>
+    </div>
+  </div>
+  <div class="options-title my-2">
+    Dimensions:-
+  </div>
+  <ul class="nav nav-tabs" role="tablist">
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" id="custom-tab" data-toggle="tab" href="#custom" role="tab" aria-controls="strechy"
+        aria-selected="true">Custom</a>
+    </li>
+    <li class="nav-item" role="presentation">
+      <a class="nav-link" id="predefined-tab" data-toggle="tab" href="#predefined" role="tab" aria-controls="predefined"
+        aria-selected="true">Pre-defined</a>
+    </li>
+  </ul>
+  <div class="tab-content">
+    <div class="tab-pane fade show active" id="custom" role="tabpanel" aria-labelledby="custom-tab">
+      <div class="row divider">
+        <div class="col-12">
+          <div class="options-title ">
+            Image Size:
+          </div>
+        </div>
+        <div class="col-lg-1 mb-2 order-2 order-lg-0">
+          <div class="d-flex align-items-center">
+            <i data-toggle="tooltip" style="margin-top: 30px;" data-placement="top" title="Unlock aspect"
+              id="aspect-radio" class="fas fa-lock"></i>
+          </div>
+        </div>
+        <div class="col-lg-5 mb-2 order-0 order-lg-1">
+          <div class="input-title">Width</div>
+          <div class="d-flex">
+            <input type="number" class="change-config" id="img_width">
+            <span class="px-span">px</span>
+          </div>
+        </div>
+        <div class="col-lg-5 mb-2 order-1 order-lg-2">
+          <div class="input-title">Height</div>
+          <div class="d-flex">
+            <input type="number" class="change-config" id="img_height">
+            <span class="px-span">px</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="tab-pane fade" id="predefined" role="tabpanel" aria-labelledby="predefined-tab">
+      <div class="row divider">
+        <div class="col-12">
+          <div class="options-title ">
+            Pre-defined Dimensions in pixels :-
+          </div>
+          <select class="form-control" id="dimensions">
+            <option value="900x1500">900 x 1500</option>
+            <option value="1200x1800">1200 x 1800</option>
+            <option value="1500x2100">1500 x 2100</option>
+            <option value="2400x2400">2400 x 2400</option>
+            <option value="2400x3000">2400 x 3000</option>
+            <option value="2550x3300">2550 x 3300</option>
+            <option value="2700x4800">2700 x 4800</option>
+            <option value="3300x4800">3300 x 4800</option>
+            <option value="3300x4200">3300 x 4200</option>
+            <option value="1920x1080">1920 x 1080</option>
+            <option value="1080x1920">1080 x 1920</option>
+            <option value="500x500">500 x 500</option>
+            <option value="42x59.4">42 x 59.4</option>
+            <option value="1080x1080">1080 x 1080</option>
+            <option value="1920x1080">1920 x 1080</option>
+            <option value="29.7x21">29.7 x 21</option>
+            <option value="1280x720">1280 x 720</option>
+            <option value="21x29.7">21 x 29.7</option>
+            <option value="1000x1000">1000 x 1000</option>
+            <option value="1920x480">1920 x 480</option>
+            <option value="800x2000">800 x 2000</option>
+            <option value="1200x628">1200 x 628</option>
+            <option value="1200x675">1200 x 675</option>
+            <option value="700x800">700 x 800</option>
+            <option value="385x256">385 x 256</option>
+            <option value="266x177">266 x 177</option>
+            <option value="320x320">320 x 320</option>
+            <option value="1080x566">1080 x 566</option>
+            <option value="1080x1350">1080 x 1350</option>
+            <option value="170x170">170 x 170</option>
+            <option value="1200x630">1200 x 630</option>
+            <option value="630x1200">630 x 1200</option>
+            <option value="1640x923">1640 x 923</option>
+            <option value="128x128">128 x 128</option>
+            <option value="32x32">32 x 32</option>
+            <option value="1584x396">1584 x 396</option>
+            <option value="300x300">300 x 300</option>
+            <option value="1280x720">1280 x 720</option>
+            <option value="1024x768">1024 x 768</option>
+            <option value="480x640">480 x 640</option>
+            <option value="1024x768">1024 x 768</option>
+            <option value="1920x1080">1920 x 1080</option>
+            <option value="1280x720">1280 x 720</option>
+            <option value="450x450">450 x 450</option>
+            <option value="480x640">480 x 640</option>
+            <option value="150x150">150 x 150</option>
+            <option value="1280x720">1280 x 720</option>
+            <option value="254x94">254 x 94</option>
+            <option value="560x208">560 x 208</option>
+            <option value="168x168">168 x 168</option>
+            <option value="1958x745">1958 x 745</option>
+            <option value="2037x754">2037 x 754</option>
+            <option value="400x150">400 x 150</option>
+            <option value="400x400">400 x 400</option>
+            <option value="400x600">400 x 600</option>
+            <option value="1400x1400">1400 x 1400</option>
+            <option value="200x200">200 x 200</option>
+            <option value="3000x3000">3000 x 3000</option>
+            <option value="1400x1400">1400 x 1400</option>
+            <option value="10800x7200">10800 x 7200</option>
+            <option value="100x100">100 x 100</option>
+            <option value="2480x520">2480 x 520</option>
+            <option value="800x200">800 x 200</option>
+            <option value="840x840">840 x 840</option>
+            <option value="196x196">196x196</option>
+            <option value="12x12">12 x 12</option>
+            <option value="1500x1500">1500 x 1500</option>
+            <option value="600x314">600 x 314</option>
+            <option value="250x250">250 x 250</option>
+            <option value="400x514">400 x 514</option>
+            <option value="2732x2732">2732 x 2732</option>
+            <option value="18x18">18 x 18</option>
+            <option value="120x30">120 x 30</option>
+          </select>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<input onchange="fileOnChange()" type="file" id="file" accept=".jpg,.jpeg,.png,.webp" class="file" />

@@ -1,0 +1,415 @@
+{
+    "Language": "Русский",
+    "htmlLangAtt": "ru",
+    "H1": "Онлайн изменение размера изображения до размеров 6X4 ",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "предупреждение",
+    "H2": "Измените размер изображения до 6X4, как профессионал с помощью этого инструмента.",
+    "TITLE": "Изменить размер изображения - лучший инструмент для легкого изменения размера изображения до 6X4.",
+    "META": "Легко измените размер изображения до 6X4 с помощью этого простого в использовании инструмента. Лучший инструмент для изменения размера изображения в соответствии с вашими требованиями. Получите желаемый результат без каких-либо ограничений. Этот волшебный инструмент позволяет изменить размер изображения до x всего за несколько кликов. Нет необходимости устанавливать какое-либо программное обеспечение.",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "размеры изображений в дюймах",
+                "links": [
+                    {
+                        "name": "размер изображения до 3x5 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-3x5"
+                    },
+                    {
+                        "name": "размер изображения до 4x6 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-4x6"
+                    },
+                    {
+                        "name": "размер изображения до 5x7 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-5x7"
+                    },
+                    {
+                        "name": "размер изображения до 8x8",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-8x8"
+                    },
+                    {
+                        "name": "размер изображения до 8x10 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-8x10"
+                    },
+                    {
+                        "name": "размер изображения до 8x11 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-8x11"
+                    },
+                    {
+                        "name": "размер изображения до 2x2 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-2x2"
+                    },
+                    {
+                        "name": "размер изображения до 9x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-9x16"
+                    },
+                    {
+                        "name": "изменение размера изображения до 11x14 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-11x14"
+                    },
+                    {
+                        "name": "изменение размера изображения до 11x16 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-11x16"
+                    },
+                    {
+                        "name": "размер изображения до 12x18 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-12x18"
+                    },
+                    {
+                        "name": "размер изображения до 18x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-18x24"
+                    },
+                    {
+                        "name": "размер изображения до 18x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-18x36"
+                    },
+                    {
+                        "name": "размер изображения до 20x24 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-20x24"
+                    },
+                    {
+                        "name": "размер изображения до 24x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-24x36"
+                    },
+                    {
+                        "name": "размер изображения до 24x30 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-24x30"
+                    },
+                    {
+                        "name": "изменение размера изображения до 24x48 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-24x48"
+                    },
+                    {
+                        "name": "размер изображения до 29x21 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-29x21"
+                    },
+                    {
+                        "name": "размер изображения до 30x36 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-30x36"
+                    },
+                    {
+                        "name": "размер изображения до 30x40 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-30x40"
+                    }
+                ]
+            },
+            {
+                "categoryName": "размеры изображений в пикселях",
+                "links": [
+                    {
+                        "name": "размер изображения до 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "размер изображения до 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "размер изображения до 32x32 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-32x32"
+                    },
+                    {
+                        "name": "изменение размера изображения до 42x59 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-42x59"
+                    },
+                    {
+                        "name": "размер изображения до 128x128 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-128x128"
+                    },
+                    {
+                        "name": "размер изображения до 21x29 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-21x29"
+                    },
+                    {
+                        "name": "размер изображения до 150x150 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-150x150"
+                    },
+                    {
+                        "name": "изменение размера изображения до 168x168 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-168x168"
+                    },
+                    {
+                        "name": "размер изображения до 170x170 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-170x170"
+                    },
+                    {
+                        "name": "изменение размера изображения до 254x94 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-254x94"
+                    },
+                    {
+                        "name": "размер изображения до 266x177 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-266x177"
+                    },
+                    {
+                        "name": "размер изображения до 300x300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-300x300"
+                    },
+                    {
+                        "name": "изменение размера изображения до 320x320 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-320x320"
+                    },
+                    {
+                        "name": "изменение размера изображения до 385x256 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-385x256"
+                    },
+                    {
+                        "name": "размер изображения до 450x450 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-450x450"
+                    },
+                    {
+                        "name": "размер изображения до 500x500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-500x500"
+                    },
+                    {
+                        "name": "изменение размера изображения до 560x208 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-560x208"
+                    },
+                    {
+                        "name": "изменение размера изображения до 630x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-630x1200"
+                    },
+                    {
+                        "name": "размер изображения до 700x800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-700x800"
+                    },
+                    {
+                        "name": "размер изображения до 800x2000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-800x2000"
+                    },
+                    {
+                        "name": "размер изображения до 900x1500 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-900x1500"
+                    },
+                    {
+                        "name": "размер изображения до 1000x524 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1000x524"
+                    },
+                    {
+                        "name": "размер изображения до 1000x1000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1000x1000"
+                    },
+                    {
+                        "name": "изменение размера изображения до 1024x768 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1024x768"
+                    },
+                    {
+                        "name": "изменение размера изображения до 1080x1920 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1080x1920"
+                    },
+                    {
+                        "name": "изменение размера изображения до 1080x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1080x1080"
+                    },
+                    {
+                        "name": "изменение размера изображения до 1080x1350 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1080x1350"
+                    },
+                    {
+                        "name": "размер изображения до 1200x628 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1200x628"
+                    },
+                    {
+                        "name": "размер изображения до 1200x630 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1200x630"
+                    },
+                    {
+                        "name": "размер изображения до 1200x675 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1200x675"
+                    },
+                    {
+                        "name": "изменение размера изображения до 1200x1200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1200x1200"
+                    },
+                    {
+                        "name": "размер изображения до 1200x1800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1200x1800"
+                    },
+                    {
+                        "name": "размер изображения до 1280x720 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1280x720"
+                    },
+                    {
+                        "name": "размер изображения до 1500x2100 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1500x2100"
+                    },
+                    {
+                        "name": "размер изображения до 1584x396 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1584x396"
+                    },
+                    {
+                        "name": "размер изображения до 1640x923 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1640x923"
+                    },
+                    {
+                        "name": "размер изображения до 1920x480 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1920x480"
+                    },
+                    {
+                        "name": "размер изображения до 1920x1080 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1920x1080"
+                    },
+                    {
+                        "name": "размер изображения до 1958x745 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-1958x745"
+                    },
+                    {
+                        "name": "размер изображения до 2037x754 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-2037x754"
+                    },
+                    {
+                        "name": "изменение размера изображения до 2400x3000 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-2400x3000"
+                    },
+                    {
+                        "name": "изменение размера изображения до 2550x3300 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-2550x3300"
+                    },
+                    {
+                        "name": "изменение размера изображения до 2700x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-2700x4800"
+                    },
+                    {
+                        "name": "изменение размера изображения до 3300x4200 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-3300x4200"
+                    },
+                    {
+                        "name": "изменение размера изображения до 3300x4800 ",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/ru/resize-image-to-3300x4800"
+                    }
+                ]
+            }
+        ]
+    },
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Сохраняйте высокое качество изображения",
+            "content": "С помощью нашего инструмента для изменения размера изображения до размеров 6X4 можно изменять размер изображений в дюймах без ущерба для их качества. Соотношение сторон увеличенного изображения будет таким же, как и у исходного изображения. Технологических требований нет, и даже нетехнические пользователи могут завершить процедуру. Он также предоставляет вам предварительный просмотр измененного размера изображения, что позволяет выполнить процедуру изменения размера максимально плавно."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Простой в использовании",
+            "content": "Этот инструмент для изменения размера изображения 6X4 в дюймах очень прост в эксплуатации. Прежде всего, пользовательский интерфейс очень прост и понятен. Благодаря тому, что все находится в одном месте, вам не придется гадать, с чего начать редактирование. Кроме того, наш инструмент изменения размера изображения до размеров 6X4 не содержит рекламы, что делает работу конечного пользователя более приятной."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Конфиденциальность и безопасность данных",
+            "content": "Никакие данные не передаются на наши серверы и не используются в маркетинговых целях при использовании инструмента изменения размера изображения до размеров 6X4. Все действия, выполняемые при использовании инструмента изменения размера изображения до размеров 6X4, выполняются исключительно в браузере. В результате мы можем обеспечить полную безопасность для всех наших клиентов, что делает наш инструмент для изменения размера изображения до размеров 6X4 надежным и абсолютно безопасным для использования в любой ситуации."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Он доступен для всех бесплатно",
+            "content": "Все желающие могут использовать инструмент изменения размера изображения до размеров 6X4, и регистрация не требуется. Использование нашего инструмента resizer image to 6X4 dimensions совершенно бесплатно, и мы не берем с вас ничего за это. При использовании инструмента resizer image to 6X4 dimensions нет ограничений на количество раз, когда вы можете изменить размер изображений."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "адаптивность",
+            "content": "Chrome, Safari, Firefox, Microsoft Edge и другие популярные браузеры поддерживаются инструментом изменения размера изображения до размеров 6X4. Когда вы используете инструмент изменения размера изображения до размеров 6X4, он адаптируется к любому размеру экрана, делая его легко доступным на настольном компьютере, планшете или мобильном телефоне."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Дальнейшая загрузка не требуется",
+            "content": "Чтобы использовать наш инструмент resizer image to 6X4 dimensions, нам не требуется загружать или устанавливать какое-либо программное обеспечение на свой компьютер или мобильное устройство. Наш инструмент изменения размера изображения до размеров 6X4 полностью основан на браузере, и вы можете получить доступ к нашему веб-сайту в любое время, просто введя наш URL-адрес в своем браузере и используя инструмент по мере необходимости."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Как изменить размер изображения",
+        "steps": [
+            "Загрузите изображение или нажмите на стрелку вниз и выберите Dropbox/Google Drive, чтобы выбрать файл в отведенном месте.",
+            "Отрегулируйте параметры для улучшения качества изображения.\n",
+            "Нажмите «Предварительный просмотр», чтобы увидеть внесенные изменения.",
+            "Сохраните внесенные изменения.",
+            "Ура!! изображение готово к использованию."
+        ]
+    },
+   
+    "jscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh040g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/image-resize.css\" />"
+    ]
+}

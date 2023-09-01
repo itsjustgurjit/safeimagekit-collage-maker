@@ -1,0 +1,559 @@
+<body style="display: none;">
+    <div class="container">
+        {%- assign boxColor = site.data[page.folderName][page.lang][page.fileName].color -%}
+
+        <div class="modal">
+            <div class="modal-background"></div>
+            <div class="modal-content">
+                <div class="box hidden" id="modal-save">
+                    123
+                </div>
+                <div class="box hidden" id="modal-faq">
+                    <div class="content">
+                        <b>Q: Why my image looks different on small scales?</b>
+                        <p>A: Some textures with different colors, (e.g. Terracota, TNT) when scaled to small size, can
+                            look not similar to their original size.</p><br>
+                        <b>Q: After building in-game, part of my image is missing. Why?</b>
+                        <p>A: This can caused by reaching height limit, including blocks, that are not in the current
+                            game version or spawning blocks out of your max render distance.</p><br>
+                        <b>Q: There are too many pages in command block convert output!</b>
+                        <p>A: You can reduce number of commands, if you optimize your image to include more simillar
+                            blocks.</p><br>
+                        <b>Q: Why there are no 1.13 blocks?</b>
+                        <p>A: Right now 1.13 version of WorldEdit is not stable and current .schematic file structure is
+                            not compatible with 1.13 blocks. You can read more about it <a
+                                href="https://minecraft.gamepedia.com/1.13/Flattening">here.</a></p>
+                    </div>
+                </div>
+                <div class="box hidden" id="modal-controls">
+                    <div class="columns">
+                        <div class="column">
+                            <p><b>P</b> - Pencil tool</p>
+                            <p><b>B</b> - Brush tool</p>
+                            <p><b>U</b> - Bucket tool</p>
+                            <p><b>E</b> - Eyedropper tool</p>
+                            <p><b>Z</b> - Zoom tool</p>
+                            <p><b>G</b> - Grab tool</p>
+                            <p><b>O</b> - Toggle original</p>
+                            <p><b>[</b> - Reduce brush size</p>
+                            <p><b>]</b> - Increase brush size</p>
+                        </div>
+                        <div class="column">
+                            <p><b>Arrow keys</b> - Move camera</p>
+                            <p><b>Mouse wheel press</b> - Grab</p>
+                            <p><b>Mouse wheel turn</b> - Change scale</p>
+                            <p><b>Shift + LClick</b> - Draw line from last point</p>
+                            <p><b>Ctrl + LClick</b> - Quick eyedropper</p>
+                            <p><b>Ctrl + Z</b> - Undo</p>
+                            <p><b>Ctrl + Y</b> - Redo</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button class="modal-close is-large" aria-label="close"></button>
+        </div>
+
+        <div class="modal loading-overlay">
+        </div>
+
+        <div>
+            <section class="custom-box dropzone section start-screen" id="start-dropzone"
+                style="background-color: #009A71;">
+                <div class="inner-box">
+                    <div style="display:none;" id="file-loader"><img
+                            src="https://d33wubrfki0l68.cloudfront.net/4853c08fdb189995c8ba4918c4bcb06493fbab74/3bc6b/assets/infinity-white.gif"
+                            alt="">
+                        <p>Please Wait ,Loading Your file </p>
+                    </div>
+
+                    <div>
+                        <div class="mb-4 d-flex justify-content-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" id="img-svg" viewBox="0 0 96 60">
+                                <path fill="white"
+                                    d="M61.9655252,3.24869071 L61.9765763,3.41278068 L62.045,5.866 L73.2405238,6.25793424 C74.5651997,6.30419294 75.6130942,7.37295092 75.6521743,8.67919891 L75.6517521,8.84366004 L73.9765763,56.8144197 C73.9303176,58.1390957 72.8615596,59.1869902 71.5553116,59.2260703 L71.3908505,59.2256481 L68.3103384,59.1184351 C68.0464245,59.8400339 67.3786666,60.3670921 66.5807111,60.425963 L66.4314488,60.4314488 L66.4314488,60.4314488 L30.4314488,60.4314488 C29.3268793,60.4314488 28.4314488,59.5360183 28.4314488,58.4314488 L28.431,55.114 L25.262454,55.2256481 C23.9377781,55.2719068 22.8178834,54.2788497 22.6877793,52.9785097 L22.6767282,52.8144197 L21.0015524,4.84366004 C20.9552937,3.51898409 21.9483508,2.39908942 23.2486907,2.2689853 L23.4127807,2.25793424 L59.3908505,1.00155235 C60.7155264,0.955293651 61.8354211,1.94835077 61.9655252,3.24869071 Z M54.2794488,39.4234488 L45.0024366,47.6809882 L40.7104488,42.4274488 L29.431,51.895 L29.4314488,58.4314488 C29.4314488,58.9442846 29.817489,59.3669559 30.3148276,59.424721 L30.4314488,59.4314488 L66.4314488,59.4314488 C66.9442846,59.4314488 67.3669559,59.0454086 67.424721,58.5480699 L67.4314488,58.4314488 L67.4304488,52.8324488 L54.2794488,39.4234488 Z M37.2275545,6.00094318 C36.4483334,5.97373218 35.7872098,6.54589593 35.688023,7.30354781 L35.676119,7.44768018 L35.676,8.431 L60.4314488,8.43144877 L68.4314488,16.4314488 L68.431,58.121 L71.4257499,58.2262572 C72.2049711,58.2534682 72.8660946,57.6813045 72.9652815,56.9236526 L72.9771854,56.7795202 L74.6523613,8.80876055 C74.6795723,8.0295394 74.1074085,7.36841587 73.3497567,7.26922904 L73.2056243,7.25732506 L37.2275545,6.00094318 Z M59.4257499,2.00094318 L23.4476802,3.25732506 C22.668459,3.28453606 22.0488581,3.9014237 22.002764,4.6641489 L22.0009432,4.80876055 L23.676119,52.7795202 C23.70333,53.5587414 24.3202177,54.1783423 25.0829429,54.2244364 L25.2275545,54.2262572 L28.431,54.114 L28.4314488,10.4314488 C28.4314488,9.32687927 29.3268793,8.43144877 30.4314488,8.43144877 L34.611,8.431 L34.6767282,7.41278068 C34.7229869,6.08810473 35.7917449,5.04021022 37.0979929,5.00113017 L37.262454,5.00155235 L61.045,5.831 L60.9771854,3.44768018 C60.9499744,2.66845903 60.3330868,2.04885809 59.5703616,2.00276399 L59.4257499,2.00094318 Z M59.431,9.431 L30.4314488,9.43144877 C29.9186129,9.43144877 29.4959416,9.81748896 29.4381765,10.3148276 L29.4314488,10.4314488 L29.431,50.591 L40.8439098,41.010846 L45.1168036,46.2404726 L54.3266522,38.0432874 L67.431,51.405 L67.431,17.431 L59.4314488,17.4314488 L59.431,9.431 Z M58.4314488,26.4314488 C60.088303,26.4314488 61.4314488,27.7745945 61.4314488,29.4314488 C61.4314488,31.088303 60.088303,32.4314488 58.4314488,32.4314488 C56.7745945,32.4314488 55.4314488,31.088303 55.4314488,29.4314488 C55.4314488,27.7745945 56.7745945,26.4314488 58.4314488,26.4314488 Z M60.431,9.846 L60.431,16.431 L67.016,16.431 L60.431,9.846 Z">
+                                </path>
+                            </svg>
+                        </div>
+                        <div class="d-flex justify-content-center align-items-center ">
+                            <div id="Inputbox" class="boxes"> <input class=" d-none" type="file" name="main-image"
+                                    id="start-file-input"> <img height="21px" width="21px" src="/img/add-image.png" />
+                                <span class='ml-1'>CHOOSE
+                                    FILE</span>
+                            </div>
+                            <div class="file-pick-dropdown">
+                                <i class="fas fa-angle-down arrow-sign "></i>
+                                <div class="file-picker-dropdown" style="display: none;">
+                                    <button id="dropbox"> <svg viewBox="0 0 24 24" fill="#0061FF"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path id="icon"
+                                                d="M12.0146 6.57367L6.50732 10.1473L12.0146 13.721L6.50732 17.2947L1 13.6912L6.50732 10.1176L1 6.57367L6.50732 3L12.0146 6.57367ZM6.47803 18.4263L11.9854 14.8527L17.4927 18.4263L11.9854 22L6.47803 18.4263ZM12.0146 13.6912L17.522 10.1176L12.0146 6.57367L17.4927 3L23 6.57367L17.4927 10.1473L23 13.721L17.4927 17.2947L12.0146 13.6912Z">
+                                            </path>
+                                        </svg> From Dropbox</button>
+                                    <button id='filepicker'> <svg viewBox="0 0 24 24"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path id="Path" d="M8.33331 3H15.6666L23 15H15.6666L8.33331 3Z"
+                                                fill="#FFC107">
+                                            </path>
+                                            <path id="Path_2" d="M4.6012 21L8.30086 15H23L19.3333 21H4.6012Z"
+                                                fill="#1976D2">
+                                            </path>
+                                            <path id="Path_3" d="M1 15.0625L4.60119 21L12 9L8.33333 3L1 15.0625Z"
+                                                fill="#4CAF50">
+                                            </path>
+                                        </svg> From Google Drive</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="dropfile">Drag and drop your image/.schematic file here</div>
+
+                        <div class="warning is-red center mt-3" id="error-start-screen">
+                            <div class="warning-icon"><i class="fas fa-exclamation-triangle fa-2x"></i></div>
+                            <div class="warning-body"></div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </section>
+        </div>
+
+
+        <section class="section container settings-screen hidden mt-5">
+            <div class="columns is-mobile">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div>
+                            <div class="img-background">
+                                <img class="img-pixelated img-presentation" id="settings-img-presentation">
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="options-panel">
+                            <div class="title">
+                                Minecraft Pixel Art
+                            </div>
+                            <div class="warning is-red inline" id="error-settings-screen">
+                                <div class="warning-body"></div>
+                            </div>
+
+                            <div class="row divider">
+                                <label class="options-title">
+                                    Game Blocks:-
+                                </label>
+                                <label id="settings-group-all" class="radio-label box-selected">
+                                    <input type="radio" name="block-groups" value="all" checked>
+                                    <span class="checkmark"></span>
+                                    <span class="label-span">All Blocks (all block)</span>
+                                </label>
+                                <label class="radio-label" id="settings-group-survival">
+                                    <input type="radio" name="block-groups" value="survival">
+                                    <span class="checkmark"></span>
+                                    <span class="label-span">Survival mode</span>
+                                </label>
+                                <label id="settings-group-custom" class="radio-label">
+                                    <input type="radio" name="block-groups" value="custom">
+                                    <span class="checkmark"></span>
+                                    <span class="label-span">Select Custom Blocks</span>
+                                </label>
+
+
+                            </div>
+                            <div class="row divider">
+                                <div id="settings-img-sizes"></div>
+                                <div class="size-settings clearfix mt-2">
+                                    <div class="size-inputs">
+                                        <span class="input-width">
+                                            <input class="input" id="settings-input-width">
+                                        </span><i class="fas fa-link"></i>
+                                        <span class="input-height">
+                                            <input class="input" id="settings-input-height">
+                                        </span> = <span id="settings-equals-blocks"></span>
+                                    </div>
+
+                                </div>
+                                <div class="size-checkboxes mt-4">
+                                    <label class="checkbox d-block">
+                                        <input type="checkbox" id="settings-check-crop">
+                                        <span class="checkbox-checkmark"></span> <span style="margin-left: 29px;">
+                                            Crop image
+                                        </span> </label>
+
+                                    <label class="checkbox d-block">
+                                        <input type="checkbox" id="settings-check-ignore-ratio">
+                                        <span class="checkbox-checkmark"></span> <span style="margin-left: 29px;">
+                                            Ignore aspect ratio
+                                        </span> </label>
+
+                                    <label class="checkbox d-block">
+                                        <input type="checkbox" id="settings-ignore-height-limit">
+                                        <span class="checkbox-checkmark"></span> <span style="margin-left: 29px;">
+                                            Ignore in-game height limit
+                                        </span>
+                                    </label>
+
+
+                                </div>
+                            </div>
+                            <div class="table-blocks-container hidden">
+                                <span></span><input class="input" id="settings-input-filter"
+                                    placeholder="Filter by name">
+                                <div class="table-blocks-wrapper">
+                                    <table class="table" id="settings-table-blocks">
+                                        <thead>
+                                            <tr>
+                                                <th><input type="checkbox" id="settings-table-checkbox" checked></th>
+                                                <th>Image</th>
+                                                <th>Name</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody></tbody>
+                                    </table>
+                                    <div id="settings-table-counter"></div>
+                                </div>
+                            </div>
+                            <div class="row divider">
+                                <div class="checkboxes-include" id="settings-checkboxes-include">
+                                    <label class="checkbox">
+                                        <input type="checkbox" name="include-falling" checked>
+                                        <span class="checkbox-checkmark"></span> <span style="margin-left: 29px;">
+                                            Include falling
+                                        </span> </label>
+
+                                    <label class="checkbox">
+                                        <input type="checkbox" name="include-transparent">
+                                        <span class="checkbox-checkmark"></span> <span style="margin-left: 29px;">
+                                            Include transparent
+                                        </span> </label>
+                                    <label class="checkbox">
+                                        <input type="checkbox" name="include-redstone">
+                                        <span class="checkbox-checkmark"></span> <span style="margin-left: 29px;">
+                                            Include redstone activated
+                                        </span> </label>
+                                    <label class="checkbox">
+                                        <input type="checkbox" name="include-luminance">
+                                        <span class="checkbox-checkmark"></span> <span style="margin-left: 29px;">
+                                            Include luminance
+                                        </span> </label>
+                                </div>
+                            </div>
+
+
+
+                            <div class="row divider">
+                                <label class="options-title" for="settings-version">Minecraft version:</label>
+                                <div class="select">
+                                    <select id="settings-version">
+                                        <option value="12">1.12</option>
+                                        <option value="11">1.11</option>
+                                        <option value="10">1.10</option>
+                                        <option value="9">1.9</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="download-wrapper">
+                                <button id="settings-submit">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                        <!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+                                        <path
+                                            d="M500.33 0h-47.41a12 12 0 0 0-12 12.57l4 82.76A247.42 247.42 0 0 0 256 8C119.34 8 7.9 119.53 8 256.19 8.1 393.07 119.1 504 256 504a247.1 247.1 0 0 0 166.18-63.91 12 12 0 0 0 .48-17.43l-34-34a12 12 0 0 0-16.38-.55A176 176 0 1 1 402.1 157.8l-101.53-4.87a12 12 0 0 0-12.57 12v47.41a12 12 0 0 0 12 12h200.33a12 12 0 0 0 12-12V12a12 12 0 0 0-12-12z" />
+                                    </svg>
+                                    Convert</button>
+
+                            </div>
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </section>
+
+        <section class="section workarea editor-screen hidden">
+            <div class="warning is-red center" id="error-editor-screen"
+                style="right: 20px; position: absolute; z-index: 1;">
+                <div class="warning-icon"><i class="fas fa-exclamation-triangle fa-2x"></i></div>
+                <div class="warning-body"></div>
+            </div>
+            <div class="topbar" style="margin: 0;">
+                <button class="topbar-btn d-none" id="editor-open-btn">Open
+                    <div class="topbar-menu topbar-menu-open hidden">
+                        <label class="file-label">
+                            <input class="file-input d-none" type="file" id="editor-file-input-image">
+                            <span class="file-cta">
+                                <span class="file-label">Open image..</span>
+                            </span>
+                        </label>
+                        <label class="file-label">
+                            <input class="file-input d-none" type="file" id="editor-file-input-data">
+                            <span class="file-cta">
+                                <span class="file-label">Open .schematic..</span>
+                            </span>
+                        </label>
+                    </div>
+                </button>
+                <div class="topbar-btn" style="background-color:{{boxColor}} ;">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+                        <path
+                            d="M504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-143.6-28.9L288 302.6V120c0-13.3-10.7-24-24-24h-16c-13.3 0-24 10.7-24 24v182.6l-72.4-75.5c-9.3-9.7-24.8-9.9-34.3-.4l-10.9 11c-9.4 9.4-9.4 24.6 0 33.9L239 404.3c9.4 9.4 24.6 9.4 33.9 0l132.7-132.7c9.4-9.4 9.4-24.6 0-33.9l-10.9-11c-9.5-9.5-25-9.3-34.3.4z" />
+                    </svg>
+                    Save
+                    <div class="topbar-menu topbar-menu-save hidden">
+                        <div style="display: flex;">
+                            <input class="input" type="text" id="editor-save-input">
+                            <span style="margin-left: -5px;">.schematic</span>
+                            <a class="button" id="editor-save-btn" download="art.schematic">Download schematic</a>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="topbar-btn d-none">Replace
+                    <div class="topbar-menu topbar-menu-replace hidden">
+                        <div class="topbar-menu-replace-form">
+                            <div class="replace-group">
+                                <img class="img-thumbnail img-pixelated" id="editor-replace-target">
+                                <span>...</span>
+                            </div>
+                            <div class="svg-arrow">
+                                <svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 307 307">
+                                    <path
+                                        d="M239 142L101 5c-6-7-16-7-22 0L68 16c-6 6-6 16 0 22l116 116L68 269c-6 6-6 16 0 22l11 11c6 7 16 7 22 0l138-137c6-7 6-16 0-23z" />
+                                </svg>
+                            </div>
+                            <div class="replace-group">
+                                <img class="img-thumbnail img-pixelated" id="editor-replace-replacement">
+                                <span>...</span>
+                            </div>
+                        </div>
+                        <button class="button is-success" id="editor-replace-btn">Replace</button>
+                        <div class="text-info hidden" id="editor-replace-info"></div>
+                    </div>
+                </div>
+                <div class="topbar-btn d-none">Settings
+                    <d class="topbar-menu topbar-menu-settings hidden">
+                        <div class="settings-panel">
+                            <label class="checkbox">
+                                <input type="checkbox" id="editor-settings-rulers" checked>
+                                Show rulers
+                            </label>
+                            <label class="checkbox">
+                                <input type="checkbox" id="editor-settings-grid">
+                                Show grid
+                            </label>
+                            <label class="checkbox">
+                                <input type="checkbox" id="editor-settings-original">
+                                Show original
+                            </label>
+                            <label>
+                                <input type="color" value="#ff4778" id="editor-settings-grid-color">
+                                Grid color
+                            </label>
+                            <label style="margin-top: 5px; line-height: 27px;">
+                                <div class="select is-small">
+                                    <select id="editor-settings-we-direction">
+                                        <option checked value="north">North</option>
+                                        <option value="east">East</option>
+                                        <option value="south">South</option>
+                                        <option value="west">West</option>
+                                    </select>
+                                </div>
+                                WorldEdit spawn direction
+                            </label>
+
+                        </div>
+                    </d>
+                </div>
+                <div class="topbar-btn d-none" id="editor-btn-convert">Convert to commands..</div>
+                <div class="topbar-btn" id="editor-btn-save-png" style="background-color:{{boxColor}} ;"><svg
+                        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path
+                            d="M504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-143.6-28.9L288 302.6V120c0-13.3-10.7-24-24-24h-16c-13.3 0-24 10.7-24 24v182.6l-72.4-75.5c-9.3-9.7-24.8-9.9-34.3-.4l-10.9 11c-9.4 9.4-9.4 24.6 0 33.9L239 404.3c9.4 9.4 24.6 9.4 33.9 0l132.7-132.7c9.4-9.4 9.4-24.6 0-33.9l-10.9-11c-9.5-9.5-25-9.3-34.3.4z" />
+                    </svg> Download Png</div>
+                <div class="topbar-btn d-none">Help
+                    <div class="topbar-menu topbar-menu-help">
+                        <div class="topbar-menu-item" id="editor-help-faq">
+                            FAQ
+                        </div>
+                        <div class="topbar-menu-item" id="editor-help-controls">
+                            Keyboard/mouse controls
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="columns is-mobile">
+                <div class="column is-three-quarters editor">
+                    <div class="editor-tools">
+                        <label title="Pencil tool (P)">
+                            <input type="radio" name="tool" value="pencil" checked>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                                <path
+                                    d="M421.7 220.3L188.5 453.4L154.6 419.5L158.1 416H112C103.2 416 96 408.8 96 400V353.9L92.51 357.4C87.78 362.2 84.31 368 82.42 374.4L59.44 452.6L137.6 429.6C143.1 427.7 149.8 424.2 154.6 419.5L188.5 453.4C178.1 463.8 165.2 471.5 151.1 475.6L30.77 511C22.35 513.5 13.24 511.2 7.03 504.1C.8198 498.8-1.502 489.7 .976 481.2L36.37 360.9C40.53 346.8 48.16 333.9 58.57 323.5L291.7 90.34L421.7 220.3zM492.7 58.75C517.7 83.74 517.7 124.3 492.7 149.3L444.3 197.7L314.3 67.72L362.7 19.32C387.7-5.678 428.3-5.678 453.3 19.32L492.7 58.75z" />
+                            </svg>
+                        </label>
+                        <label title="Brush tool (B)">
+                            <input type="radio" name="tool" value="brush">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                                <path
+                                    d="M224 263.3C224.2 233.3 238.4 205.2 262.4 187.2L499.1 9.605C517.7-4.353 543.6-2.965 560.7 12.9C577.7 28.76 580.8 54.54 568.2 74.07L406.5 324.1C391.3 347.7 366.6 363.2 339.3 367.1L224 263.3zM320 400C320 461.9 269.9 512 208 512H64C46.33 512 32 497.7 32 480C32 462.3 46.33 448 64 448H68.81C86.44 448 98.4 429.1 96.59 411.6C96.2 407.8 96 403.9 96 400C96 339.6 143.9 290.3 203.7 288.1L319.8 392.5C319.9 394.1 320 397.5 320 400V400z" />
+                            </svg>
+                        </label>
+                        <label title="Bucket tool (U)">
+                            <input type="radio" name="tool" value="bucket">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
+                                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                                <path
+                                    d="M41.37 9.372C53.87-3.124 74.13-3.124 86.63 9.372L168 90.74L221.1 37.66C249.2 9.539 294.8 9.539 322.9 37.66L474.3 189.1C502.5 217.2 502.5 262.8 474.3 290.9L283.9 481.4C246.4 518.9 185.6 518.9 148.1 481.4L30.63 363.9C-6.863 326.4-6.863 265.6 30.63 228.1L122.7 135.1L41.37 54.63C28.88 42.13 28.88 21.87 41.37 9.372V9.372zM217.4 230.6L168 181.3L75.88 273.4C71.69 277.6 68.9 282.6 67.52 288H386.7L429.1 245.7C432.2 242.5 432.2 237.5 429.1 234.3L277.7 82.91C274.5 79.79 269.5 79.79 266.3 82.91L213.3 136L262.6 185.4C275.1 197.9 275.1 218.1 262.6 230.6C250.1 243.1 229.9 243.1 217.4 230.6L217.4 230.6zM448 448C448 422.8 480.6 368.4 499.2 339.3C505.3 329.9 518.7 329.9 524.8 339.3C543.4 368.4 576 422.8 576 448C576 483.3 547.3 512 512 512C476.7 512 448 483.3 448 448H448z" />
+                            </svg>
+                        </label>
+                        <label title="Eyedropper tool (E)">
+                            <input type="radio" name="tool" value="eyedropper">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 469.3 469.3">
+                                <path
+                                    d="M469.3 78.6a78.6 78.6 0 0 0-134-55.6l-74 74-8.4-8.5c-4.2-4.2-11-4.2-15.1 0L195 131c-4.1 4.2-4.1 11 0 15.1L209 160 58.3 310.6a53 53 0 0 0-15.6 37.7c0 14.3-4.2 28-12.1 40L1.8 431.3A10.7 10.7 0 0 0 3 445l21.4 21.3a10.6 10.6 0 0 0 13.4 1.3l45.1-30c10.6-7 23-10.8 35.7-10.8 14.7 0 28.8-6.1 38.7-16.7a11804 11804 0 0 1 151.8-149.7l14 14a10.6 10.6 0 0 0 15 0l42.7-42.8c4.1-4.1 4.1-10.9 0-15l-8.5-8.5 74-74a78 78 0 0 0 23-55.4zm-261 220h-77.7L239 190.3 279 230c-17.6 17-42.5 41-70.8 68.6z" />
+                            </svg>
+                        </label>
+                        <label title="Zoom tool (Z)">
+                            <input type="radio" name="tool" value="zoom">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                                <path
+                                    d="M500.3 443.7l-119.7-119.7c27.22-40.41 40.65-90.9 33.46-144.7C401.8 87.79 326.8 13.32 235.2 1.723C99.01-15.51-15.51 99.01 1.724 235.2c11.6 91.64 86.08 166.7 177.6 178.9c53.8 7.189 104.3-6.236 144.7-33.46l119.7 119.7c15.62 15.62 40.95 15.62 56.57 0C515.9 484.7 515.9 459.3 500.3 443.7zM79.1 208c0-70.58 57.42-128 128-128s128 57.42 128 128c0 70.58-57.42 128-128 128S79.1 278.6 79.1 208z" />
+                            </svg>
+                        </label>
+                        <label title="Grab tool (G)">
+                            <input type="radio" name="tool" value="grab">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                                <path
+                                    d="M480 128v208c0 97.05-78.95 176-176 176h-37.72c-53.42 0-103.7-20.8-141.4-58.58l-113.1-113.1C3.906 332.5 0 322.2 0 312C0 290.7 17.15 272 40 272c10.23 0 20.47 3.906 28.28 11.72L128 343.4V64c0-17.67 14.33-32 32-32s32 14.33 32 32l.0729 176C192.1 248.8 199.2 256 208 256s16.07-7.164 16.07-16L224 32c0-17.67 14.33-32 32-32s32 14.33 32 32l.0484 208c0 8.836 7.111 16 15.95 16S320 248.8 320 240L320 64c0-17.67 14.33-32 32-32s32 14.33 32 32l.0729 176c0 8.836 7.091 16 15.93 16S416 248.8 416 240V128c0-17.67 14.33-32 32-32S480 110.3 480 128z" />
+                            </svg>
+                        </label>
+                        <div class="brush-size-container" id="editor-brush-container">
+                            <div class="brush-size-thumbnail">
+                                <span class="brush-size-shape" id="editor-brush-shape"></span>
+                            </div>
+                            <span class="brush-size-string" id="editor-brush-string">25 bl.</span><br>
+                            <div class="brush-size-buttons">
+                                <i class="fas fa-minus" id="editor-brush-minus"></i>
+                                <i class="fas fa-plus" id="editor-brush-plus"></i>
+                            </div>
+                        </div>
+                        <div class="editor-eyedrop">
+                            <img class="img-pixelated" id="editor-main-eyedrop">
+                        </div>
+                    </div>
+                    <div class="editor-canvas img-pixelated" id="editor-canvas"></div>
+                </div>
+                <div class="column info-panels" style="background-color: grey">
+                    <div class="info-panels-blocks">
+                        <input class="input is-small" placeholder="search filter" id="editor-input-filter"
+                            placeholder="Filter by name">
+                        <div class="info-panels-blocks-img" id="editor-block-list"></div>
+                    </div>
+                    <div class="info-panels-history">
+                        History:
+                        <div class="info-panels-history-container" id="editor-history">
+                            <div class="info-panels-history-action-start info-panels-history-action-current"
+                                id="editor-first-action">Open</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="footbar clearfix">
+                <div class="footbar-left" id="editor-footbar-left">...</div>
+                <div class="footbar-right" id="editor-footbar-right"></div>
+            </div>
+
+        </section>
+
+        <section class="section container convert-screen hidden">
+            <div class="columns is-mobile">
+                <div class="column is-one-quarter form-options">
+                    <div class="form-option">
+                        <span>Convert method:</span>
+                        <div class="select">
+                            <select id="convert-select-method">
+                                <option checked value="commblock" selected>Command block</option>
+                                <option value="mcfunction">.mcfunction file</option>
+                                <option value="raw">Raw commands</option>
+                                <option value="manual">Amounts of blocks</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-option">
+                        <span>Minecraft version:</span>
+                        <div class="select">
+                            <select id="convert-select-version">
+                                <option value="13">1.13</option>
+                                <option checked value="12">1.12</option>
+                                <option value="11">1.11</option>
+                                <option value="10">1.10</option>
+                                <option value="9">1.9</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-option">
+                        <span>Spawn towards:</span>
+                        <div class="select">
+                            <select id="convert-select-facing">
+                                <option checked value="north">North</option>
+                                <option value="east">East</option>
+                                <option value="south">South</option>
+                                <option value="west">West</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="info" id="convert-string-commands" style="margin-bottom: 5px;"></div>
+                    <div class="info">Commands to delete:</div>
+                    <div class="info" id="convert-string-delete"></div>
+                    <div class="hidden" id="convert-notify-changed" style="margin-top: 10px;">Your image was changed. <a
+                            id="convert-notify-link" href="%23">Reconvert?</a></div>
+                </div>
+                <div class="column">
+                    <div id="convert-output-commblock">
+                        <div class="control">
+                            <textarea class="textarea" type="text" readonly id="convert-commblock-textarea"></textarea>
+                            <div class="box counter" id="convert-counter-commblock"></div>
+                            <a class="button is-small tooltip" data-tooltip="Copied to clipboard"
+                                style="margin-left:5px; vertical-align: super;" href="%23"
+                                id="convert-copy-clipboard">Copy to clipboard</a>
+                            <a href="%23" style="margin-top: 20px; float: right;" class="button is-info"
+                                id="convert-howto-command">How do I use command blocks?</a>
+                        </div>
+                    </div>
+                    <div id="convert-output-mcfunction" class="hidden">
+                        <div class="box">
+                            <a class="button is-success" id="convert-btn-mcfunction" download="123.mcfunction">Download
+                                as..</a>
+                            <input class="input" id="convert-input-mcfunction">
+                            <span>.mcfunction</span>
+                        </div>
+                    </div>
+                    <div id="convert-output-raw" class="hidden">
+                        <pre id="convert-pre-raw"></pre>
+                        <div class="box counter" id="convert-counter-raw"></div>
+                    </div>
+                    <div id="convert-output-manual" class="hidden">
+                        <table class="table" id="convert-table-manual">
+                            <thead>
+                                <tr>
+                                    <th>Image</th>
+                                    <th>Name</th>
+                                    <th>Quantity</th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                        <div class="box counter" id="convert-counter-manual"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>

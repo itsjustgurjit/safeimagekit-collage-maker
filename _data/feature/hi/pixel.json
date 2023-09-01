@@ -1,0 +1,77 @@
+{
+    "Language": "हिन्दी",
+    "htmlLangAtt": "hi",
+    "H1": "मुफ्त वेब आधारित पिक्सेल आर्ट मेकर",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "नीचे अपनी छवि अपलोड करके, अपनी छवि को पिक्सेल आर्ट में बदलना शुरू करें",
+    "TITLE": "पिक्सेल आर्ट मेकर - अपनी छवि से पिक्सेल कला बनाने के लिए इस टूल का उपयोग करें",
+    "META": "सरल और मुफ्त ऑनलाइन पिक्सेल आर्ट मेकर, आपके लिए सर्वश्रेष्ठ पिक्सेल आर्ट इमेज बनाने के लिए कई विकल्पों के साथ",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "हाई क्वालिटी",
+            "content": "हमारी छवि से पिक्सेल कला रूपांतरण उपकरण अपनी गुणवत्ता को बनाए रखते हुए छवियों को पिक्सेल कला में परिवर्तित करता है।"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "डेटा सुरक्षा",
+            "content": "आपका कोई भी डेटा हमारे सर्वर पर नहीं भेजा जाता है, सभी ऑपरेशन ब्राउज़र पर ही किए जाते हैं। यह हमें अपने उपयोगकर्ताओं के लिए 100% सुरक्षित रहने में सक्षम बनाता है"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "फ्लेक्सिबिलिटी",
+            "content": "पिक्सेल कला रूपांतरण उपकरण के लिए हमारी छवि लगभग सभी प्रकार के ब्राउज़रों और उपकरणों पर काम करती है। यह पिक्सेल आर्ट जनरेटर वेब-आधारित है और समर्थित ब्राउज़र में माइक्रोसॉफ्ट एज, क्रोम, सफारी, फ़ायरफ़ॉक्स और कई अन्य प्रसिद्ध ब्राउज़र शामिल हैं।"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "उपयोगकर्ता के अनुकूल",
+            "content": "पिक्सेल आर्ट कन्वर्जन टूल में हमारी छवि को समझना बहुत आसान है। हमारे टूल पर काम करने के लिए किसी पेशेवर की आवश्यकता नहीं है। कोई भी व्यक्ति किसी भी समय इस पिक्सेल आर्ट जनरेटर का आसानी से उपयोग कर सकता है।"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "नि:शुल्क",
+            "content": "पिक्सेल आर्ट कन्वर्जन टूल में हमारी छवि पूरी तरह से निःशुल्क है। आप एक पैसा चुकाए बिना हमारे सभी उपकरणों का उपयोग कर सकते हैं। किसी अन्य पिक्सेल आर्ट जनरेटर का उपयोग करने के लिए इसे करने के लिए सदस्यता के लिए कहा जाता है लेकिन यह पिक्सेल आर्ट जनरेटर इसे मुफ्त में कर सकता है।"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "कोई अतिरिक्त डाउनलोड नहीं",
+            "content": "पिक्सेल कला रूपांतरण उपकरण के लिए हमारी छवि पूरी तरह से ब्राउज़र-आधारित है और आपके डिवाइस पर कोई अतिरिक्त सॉफ़्टवेयर डाउनलोड करने की आवश्यकता नहीं है। डाउनलोड किए बिना मोबाइल, टैब या पीसी जैसे किसी भी डिवाइस पर इस पिक्सेल आर्ट जनरेटर का उपयोग करें।"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "हमारी छवि को पिक्सेल आर्ट में कैसे बदलें।",
+        "steps": [
+            "छवि अपलोड करें या ड्रॉप डाउन तीर पर क्लिक करें और ड्रॉपबॉक्स/Google ड्राइव का चयन करें",
+            "नीचे स्क्रॉल करके पिक्सेल कला की एक झलक पाएं।",
+            "किए गए परिवर्तनों को सहेजने के लिए “सहेजें” विकल्प पर क्लिक करें। ",
+            "डाउनलोड विकल्प का उपयोग करके पिक्सेल आर्ट डाउनलोड करें।",
+            "हुर्रे!! पिक्सेल कला उपयोग करने के लिए तैयार है।"
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

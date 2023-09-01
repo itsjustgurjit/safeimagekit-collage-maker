@@ -1,0 +1,77 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "H1": "Pembuat seni piksel berbasis web gratis",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "Mulai ubah gambar Anda menjadi pixel art, dengan mengunggah gambar Anda di bawah ini",
+    "TITLE": "Pembuat seni piksel - Gunakan alat ini untuk membuat seni piksel dari gambar Anda",
+    "META": "Pembuat seni piksel online yang sederhana dan gratis, dengan beberapa opsi untuk membuat gambar seni piksel terbaik untuk Anda",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "Kualitas Tinggi",
+            "content": "Alat konversi gambar ke seni piksel kami mengubah gambar menjadi seni piksel dengan mempertahankan kualitasnya."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "Keamanan Data",
+            "content": "Tidak ada data Anda yang dikirim di server kami semua operasi dilakukan di browser itu sendiri. Hal ini memungkinkan kami untuk 100% aman bagi pengguna kami"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "Fleksibilitas",
+            "content": "Alat konversi gambar ke pixel art kami bekerja pada hampir semua jenis browser dan perangkat. Generator seni piksel ini berbasis web dan browser yang didukung termasuk Microsoft Edge, Chrome, Safari, Firefox, dan sejumlah yang terkenal lainnya."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "Ramah pengguna",
+            "content": "Alat konversi gambar ke seni piksel kami sangat mudah dimengerti. Tidak diperlukan profesional untuk mengerjakan alat kami. Setiap orang dapat menggunakan generator seni piksel ini dengan mudah kapan saja."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "Bebas biaya",
+            "content": "Alat konversi gambar ke seni piksel kami sepenuhnya gratis. Anda dapat menggunakan semua alat kami tanpa membayar sepeser pun. Menggunakan generator seni piksel lain diminta berlangganan untuk melakukannya tetapi generator seni piksel ini dapat melakukannya secara gratis."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "Tidak ada unduhan tambahan",
+            "content": "Alat konversi gambar ke seni piksel kami sepenuhnya berbasis browser dan tidak ada perangkat lunak tambahan yang diperlukan untuk diunduh di perangkat Anda. Gunakan generator seni piksel ini di perangkat apa pun seperti ponsel, tab, atau PC tanpa mengunduh."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "Bagaimana mengkonversi gambar kita ke pixel art.",
+        "steps": [
+            "Unggah gambar atau Klik panah drop-down dan pilih Dropbox/Google Drive",
+            "Dapatkan sekilas seni piksel dengan menggulir ke bawah.",
+            "Tekan opsi “simpan” untuk menyimpan perubahan yang dilakukan. ",
+            "Unduh seni piksel menggunakan opsi unduhan.",
+            "Hore!! pixel art siap digunakan."
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

@@ -1,0 +1,67 @@
+<div class="container">
+  <div class="row m-0">
+    <div class="col-12">
+      <div class="download-wrapper mt-3">
+        <div class="row rowclass">
+          <div class="col-7">
+            <div class="d-flex align-items-center justify-content-center">
+              <div class="select-format-title">image's format</div>
+              <div class="download-format">
+                <select name="image-format" id="image-format">
+                  {%- if pageData.downloadFormats -%}
+                  {%- for item in pageData.downloadFormats -%}
+                  <option value="{{item}}">{{item}}</option>
+                  {%- endfor -%}
+                  {%- else -%}
+                  <option value="png">png</option>
+                  <option value="jpg">jpg</option>
+                  <option value="jpeg">jpeg</option>
+                  <option value="webp">webp</option>
+                  <option value="gif">gif</option>
+                  {%- endif -%}
+
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="col-5 nil">
+            <div class="d-flex align-items-center justify-content-center">
+              <button id="download-button" style="background-color: blue"><svg xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 512 512">
+                  <path
+                    d="M256 0C114.6 0 0 114.6 0 256c0 141.4 114.6 256 256 256s256-114.6 256-256C512 114.6 397.4 0 256 0zM382.6 302.6l-103.1 103.1C270.7 414.6 260.9 416 256 416c-4.881 0-14.65-1.391-22.65-9.398L129.4 302.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 306.8V128c0-17.69 14.33-32 32-32s32 14.31 32 32v178.8l49.38-49.38c12.5-12.5 32.75-12.5 45.25 0S395.1 290.1 382.6 302.6z" />
+                </svg>Download</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row m-0">
+    <div class="col-md-6 p-0 mx-auto">
+      <textarea id="inputtext" placeholder="type here..." rows="4" cols="50"></textarea>
+      <div class="mt-3 radio-picture-selector-1">
+        <label for="left"> spike left</label>
+        <input type="radio" name="direction" id="left" value="spikeleft" checked>
+        <input type="radio" name="direction" id="right" value="spikeright">
+        <label for="right"> spike right</label>
+      </div>
+      <div class="radio-picture-selector-2">
+        <label for="speech"> speech bubble</label>
+        <input type="radio" name="type" id="speech" value="speech" checked>
+        <input type="radio" name="type" id="thought" value="thought">
+        <label for="thought"> thought bubble</label>
+      </div>
+      <div id="animatediv">
+        <input type="checkbox" name="animated" id="animate">
+        <label for="animate">animated</label>
+      </div>
+      <button id="finalclick" onclick="drawImage()">Create</button>
+      <div id="canvasconatiner"></div>
+      <div id="space-between"></div>
+    </div>
+  </div>
+
+  <div id="canvaspanel"><img id="output"></div>
+</div>

@@ -1,0 +1,404 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Generate",
+                "links": [
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "ASCII image generator ",
+                        "url": "/ascii-art-from-image"
+                    },
+                    {
+                        "iconSrc": "/img/ascii.png",
+                        "name": "Text to ASCII art generator",
+                        "url": "/text-to-ascii"
+                    },
+                    {
+                        "iconSrc": "/img/meme.png",
+                        "name": "Meme generator",
+                        "url": "/meme-generator"
+                    },
+                    {
+                        "iconSrc": "/img/texttoimage.png",
+                        "name": "Text to image converter",
+                        "url": "/text-to-image-converter"
+                    },
+                    {
+                        "iconSrc": "/img/watermark.png",
+                        "name": "Watermark image maker",
+                        "url": "/watermark-for-photos"
+                    },
+                    {
+                        "iconSrc": "/img/pixel.png",
+                        "name": "Image to pixelate image converter",
+                        "url": "/pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/qr.png",
+                        "name": "QR Code generator",
+                        "url": "/qr-code-generator"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Edit",
+                "links": [
+                    {
+                        "iconSrc": "/img/common.png",
+                        "name": "Image 8bit animated art maker",
+                        "url": "/image-8bit-animated-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/common.png",
+                        "name": "image 8bit art maker",
+                        "url": "/image-8bit-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/common.png",
+                        "name": "Pixel Speech Bubbles",
+                        "url": "/pixel-speech-bubbles"
+                    },
+                    {
+                        "iconSrc": "/img/common.png",
+                        "name": "Avatar Maker",
+                        "url": "/avatar-maker"
+                    },
+                    {
+                        "iconSrc": "/img/common.png",
+                        "name": "JS-paint",
+                        "url": "/js-paint"
+                    },
+                    {
+                        "iconSrc": "/assets/1408965.png",
+                        "name": "Minecraft pixel art maker",
+                        "url": "/minecraft-pixel-art-maker"
+                    },
+                    {
+                        "iconSrc": "/img/crop.png",
+                        "name": "Image cropper",
+                        "url": "/crop-image"
+                    },
+                    {
+                        "name": "Gif cropper online",
+                        "url": "/gif/gif-crop-online"
+                    },
+                    {
+                        "iconSrc": "/img/filter.png",
+                        "name": "Image Filter Adder",
+                        "url": "/photo-filters"
+                    },
+                    {
+                        "iconSrc": "/img/rotate.png",
+                        "name": "Image Rotater",
+                        "url": "/flip-image"
+                    },
+                    {
+                        "iconSrc": "/img/crop.svg",
+                        "name": "Crop tools",
+                        "url": "/all-crop-tools"
+                    },
+                    {
+                        "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
+                        "name": "Placeholder image generator tools",
+                        "url": "/placeholder-image-generator-tools"
+                    },
+                    {
+                        "iconSrc": "/img/crop-img.png",
+                        "name": "Avatar cropper",
+                        "url": "/avatar-cropper"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Compress",
+                "links": [
+                    {
+                        "iconSrc": "/img/compressimage.png",
+                        "name": "Image Compressor",
+                        "url": "/compress-an-image"
+                    },
+                    {
+                        "iconSrc": "/img/compresspng.png",
+                        "name": "Png Compressor",
+                        "url": "/compress-png"
+                    },
+                    {
+                        "iconSrc": "/img/compressgif.png",
+                        "name": "Gif Compressor",
+                        "url": "/compress-a-gif"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Jpeg Compressor",
+                        "url": "/compress-jpeg"
+                    },
+                    {
+                        "iconSrc": "/img/compressjpeg.png",
+                        "name": "Compress Image to Specific Size",
+                        "url": "/compress-image-to-specific-size"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Other Tools",
+                "links": [
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Image Resizer",
+                        "url": "/image-resize"
+                    },
+                    {
+                        "iconSrc": "/img/split.png",
+                        "name": "Image Splitter",
+                        "url": "/split-photo"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "Multiple Image Resizer",
+                        "url": "/multiimage-resizer"
+                    },
+                    {
+                        "iconSrc": "/img/compare.png",
+                        "name": "Image Comparison",
+                        "url": "/image-comparison"
+                    },
+                    {
+                        "iconSrc": "/img/resize.png",
+                        "name": "SVG Resizer",
+                        "url": "/svg-resizer"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Other tools",
+                "links": [
+                    {
+                        "name": "List of JPG Tools",
+                        "iconSrc": "/img/jpg.png",
+                        "url": "/jpg"
+                    },
+                    {
+                        "name": "List of PNG tools",
+                        "iconSrc": "/img/png-file.png",
+                        "url": "/png"
+                    },
+                    {
+                        "name": "List of Base64 tools",
+                        "iconSrc": "/img/base64.png",
+                        "url": "/base64"
+                    },
+                    {
+                        "name": "List of Draw tools",
+                        "iconSrc": "/img/home/drawing.png",
+                        "url": "/draw"
+                    },
+                    {
+                        "name": "List Adjusts tools",
+                        "iconSrc": "/img/adjust.png",
+                        "url": "/adjust"
+                    },
+                    {
+                        "name": "Gif tools",
+                        "iconSrc": "/img/common.png",
+                        "url": "/gif"
+                    },
+                    {
+                        "name": "Image border tools",
+                        "iconSrc": "/img/common.png",
+                        "url": "/border"
+                    },
+                    {
+                        "name": "Image Filter tools",
+                        "iconSrc": "/img/common.png",
+                        "url": "/filter"
+                    },
+                    {
+                        "name": "List of Image Effects tools",
+                        "iconSrc": "/img/common.png",
+                        "url": "/effects"
+                    },
+                    {
+                        "name": "Chart Tools",
+                        "iconSrc": "/img/common.png",
+                        "url": "/charts"
+                    },
+                    {
+                        "name": "Social Media Image Resizers",
+                        "iconSrc": "/img/imageResizer-assets/iconsForLanding/facebook.svg",
+                        "url": "/social-media-resizer"
+                    },
+                    {
+                        "name": "List of Image Resizers",
+                        "iconSrc": "/img/resize.png",
+                        "url": "/image-resizers-all"
+                    },
+                    {
+                        "name": "List of Images Compressors",
+                        "iconSrc": "/img/compare.png",
+                        "url": "/compress-image-all"
+                    },
+                    {
+                        "name": "List of mm to pixels conveter pages",
+                        "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
+                        "url": "/all-mm-in-pixels-urls"
+                    },
+                    {
+                        "name": "List of cm to pixels conveter pages",
+                        "iconSrc": "https://d33wubrfki0l68.cloudfront.net/a264f7cce185c26e2af42275fbe621609b2ff726/8622b/img/image-placeholder.png",
+                        "url": "/all-cm-in-pixels-urls"
+                    },
+                    {
+                        "name": "Pixel converter tools",
+                        "iconSrc": "/img/watermark.png",
+                        "url": "/conv"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Social Media Tools",
+                "links": [
+                    {
+                        "name": "Youtube thumbnail resizer",
+                        "iconSrc": "/img/profile/youtube.png",
+                        "url": "/youtube/youtube-thumbnail-resizer"
+                    },
+                    {
+                        "name": "Youtube channel art resizer",
+                        "iconSrc": "/img/profile/youtube.png",
+                        "url": "/youtube/youtube-channel-art-resizer"
+                    },
+                    {
+                        "name": "Free facebook profile picture resizer",
+                        "iconSrc": "/img/profile/facebook.png",
+                        "url": "/facebook/free-facebook-profile-picture-resizer"
+                    },
+                    {
+                        "name": "Free facebook cover photo resizer",
+                        "iconSrc": "/img/profile/facebook.png",
+                        "url": "/facebook/free-facebook-cover-photo-resizer"
+                    },
+                    {
+                        "name": "Free facebook profile picture resizer",
+                        "iconSrc": "/img/profile/facebook.png",
+                        "url": "/facebook/free-facebook-profile-picture-resizer"
+                    },
+                    {
+                        "name": "Instagram profile picture resizer",
+                        "iconSrc": "/img/profile/instagram.png",
+                        "url": "/instagram/instagram-profile-picture-resizer"
+                    },
+                    {
+                        "name": "Instagram story image resizer",
+                        "iconSrc": "/img/profile/instagram.png",
+                        "url": "/instagram/instagram-story-image-resizer"
+                    },
+                    {
+                        "name": "Linkedin background photo resizer",
+                        "iconSrc": "/img/profile/linkedin.png",
+                        "url": "/linkedin/linkedin-background-photo-resizer"
+                    },
+                    {
+                        "name": "Discord profile pic resizer",
+                        "iconSrc": "/img/profile/discord.png",
+                        "url": "/discord/discord-profile-pic-resizer"
+                    },
+                    {
+                        "name": "Twitter header image resizer",
+                        "iconSrc": "/img/profile/twitter.png",
+                        "url": "/twitter/twitter-header-image-resizer"
+                    },
+                    {
+                        "name": "Twitter profile picture resizer",
+                        "iconSrc": "/img/profile/twitter.png",
+                        "url": "/twitter/twitter-profile-picture-resizer"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Profile Picture maker",
+                "links": [
+                    {
+                        "iconSrc": "/img/profile-picture.png",
+                        "name": "Profile picture maker",
+                        "url": "/ppm/profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/discord.png",
+                        "name": "Discord profile picture maker",
+                        "url": "/ppm/discord-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/facebook.png",
+                        "name": "facebook profile picture maker",
+                        "url": "/ppm/facebook-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/instagram.png",
+                        "name": "instagram profile picture maker",
+                        "url": "/ppm/instagram-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/linkedin.png",
+                        "name": "linkedin profile picture maker",
+                        "url": "/ppm/linkedin-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/pinterest.png",
+                        "name": "pinterest profile picture maker",
+                        "url": "/ppm/pinterest-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/soundcloud.png",
+                        "name": "soundcloud profile picture maker",
+                        "url": "/ppm/soundcloud-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/tiktok.png",
+                        "name": "tiktok profile picture maker",
+                        "url": "/ppm/tiktok-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/tumblr.png",
+                        "name": "tumblr profile picture maker",
+                        "url": "/ppm/tumblr-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/discord.png",
+                        "name": "Discord profile picture maker",
+                        "url": "/ppm/discord-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/twitch.png",
+                        "name": "twitch profile picture maker",
+                        "url": "/ppm/twitch-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/twitter.png",
+                        "name": "twitter profile picture maker",
+                        "url": "/ppm/twitter-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/whatsapp.png",
+                        "name": "whatsapp profile picture maker",
+                        "url": "/ppm/whatsapp-profile-picture-maker"
+                    },
+                    {
+                        "iconSrc": "/img/profile/youtube.png",
+                        "name": "youtube profile picture maker",
+                        "url": "/ppm/youtube-profile-picture-maker"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

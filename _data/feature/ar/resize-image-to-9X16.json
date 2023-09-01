@@ -1,0 +1,416 @@
+{
+    "Language": "العربية",
+    "htmlLangAtt": "ar",
+    "H1": "تغيير حجم الصورة 9x16 الأبعاد على الإنترنت بالبوصة",
+    "keywords": "تغيير حجم الصورة إلى 9x16",
+    "img": "/img/resize.png",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "تحذير",
+    "H2": "أفضل أداة لتغيير حجم الصور إلى أبعاد 9x16 بسرعة",
+    "TITLE": "تغيير حجم الصور إلى أبعاد 9x16 بالبوصة دون فقدان الجودة - أفضل أداة مجانية على الإنترنت",
+    "META": "قم بتغيير حجم صورك إلى 9 x16 على الفور دون فقدان جودتها. تتيح لك أداة تغيير حجم الصور 9x16 المجانية هذه تنزيل الصور التي تم تغيير حجمها بتنسيقات JPG و JPEG و PNG و WEBP دون أي متطلبات تسجيل الدخول. ",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#0D66D0",
+   "megaMenu": {
+    "nav-link-name": "Tools",
+    "dropdown":[
+        {
+            "categoryName": "مغيرات الصور بالبوصة",
+            "links": [
+                {
+                    "name": "صورة تغيير الحجم إلى 3x5 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-3x5"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 4x6 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-4x6"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 5x7 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-5x7"
+                },
+                {
+                    "name": "صورة تغيير حجم إلى 8x8",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-8x8"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 8x10 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-8x10"
+                },
+                {
+                    "name": "صورة تغيير حجم إلى 8x11 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-8x11"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2x2 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2x2"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 9x16 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-9x16"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 11x14 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-11x14"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 11x16 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-11x16"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 12x18 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-12x18"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 18x24 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-18x24"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 18x36 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-18x36"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 20x24 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-20x24"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 24x36 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-24x36"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 24x30 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-24x30"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 24x48 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-24x48"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 29x21 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-29x21"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 30x36 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-30x36"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 30x40 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-30x40"
+                }
+            ]
+        },
+        {
+            "categoryName": "مغيرات الصور بالبكسل",
+            "links": [
+                {
+                    "name": "صورة تغيير الحجم إلى 900x1500 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-900x1500"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x1800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x1800"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 32x32 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-32x32"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 42x59 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-42x59"
+                },
+                {
+                    "name": "صورة تغيير حجم إلى 128x128 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-128x128"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 21x29 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-21x29"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 150x150 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-150x150"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 168x168 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-168x168"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 170x170 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-170x170"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 254x94 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-254x94"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 266x177 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-266x177"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 300x300 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-300x300"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 320x320 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-320x320"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 385x256 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-385x256"
+                },
+                {
+                    "name": "صورة تغيير حجم إلى 450x450 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-450x450"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 500x500 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-500x500"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 560x208 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-560x208"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 630x1200 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-630x1200"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 700x800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-700x800"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 800x2000 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-800x2000"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 900x1500 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-900x1500"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1000x524 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1000x524"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1000x1000 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1000x1000"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1024x768 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1024x768"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1080x1920 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1080x1920"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1080x1080 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1080x1080"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1080x1350 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1080x1350"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x628 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x628"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x630 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x630"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x675 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x675"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x1200 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x1200"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1200x1800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1200x1800"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1280x720 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1280x720"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1500x2100 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1500x2100"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1584x396 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1584x396"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1640x923 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1640x923"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1920x480 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1920x480"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1920x1080 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1920x1080"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 1958x745 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-1958x745"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2037x754 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2037x754"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2400x3000 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2400x3000"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2550x3300 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2550x3300"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 2700x4800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-2700x4800"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 3300x4200 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-3300x4200"
+                },
+                {
+                    "name": "صورة تغيير الحجم إلى 3300x4800 ",
+                    "iconSrc": "/img/resize.png",
+                    "url": "/ar/resize-image-to-3300x4800"
+                }
+            ]
+        }
+    ]
+},
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "حافظ على جودة الصورة عالية",
+            "content": "من الممكن تغيير حجم الصور بالبوصة دون المساس بجودتها بمساعدة صورة تغيير الحجم إلى أداة أبعاد 9 × 16. ستكون نسبة العرض إلى الارتفاع للصورة المكبرة هي نفس نسبة الصورة الأصلية. لا توجد متطلبات تكنولوجية، وحتى المستخدمين غير التقنيين يمكنهم إكمال الإجراء. كما يوفر لك معاينة للصورة التي تم تغيير حجمها، مما يسمح لك بإكمال إجراء تغيير الحجم بأكثر الطرق سلاسة ممكنة."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "سهل الاستخدام",
+            "content": "أداة تغيير حجم الصور 9x16 هذه بالبوصة سهلة التشغيل للغاية. أولاً وقبل كل شيء، واجهة المستخدم بسيطة ومباشرة حقًا. نظرًا لحقيقة أن كل شيء في مكان واحد، لن تضطر إلى تخمين مكان بدء التحرير. بالإضافة إلى ذلك، لا تحتوي أداة تغيير الحجم الخاصة بنا على أبعاد 9×16 على أي إعلانات، مما يؤدي إلى تجربة مستخدم أكثر متعة للمستخدم النهائي."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "الخصوصية وأمن البيانات",
+            "content": "لا يتم نقل أي بيانات إلى خوادمنا أو استخدامها لأي أغراض تسويقية أثناء استخدام صورة تغيير الحجم إلى أداة أبعاد 9×16. يتم إكمال جميع الأنشطة التي يتم تنفيذها أثناء استخدام صورة تغيير الحجم إلى أداة أبعاد 9x16 فقط داخل المتصفح. نتيجة لذلك، نحن قادرون على توفير السلامة الكاملة لجميع عملائنا، مما يجعل صورة تغيير الحجم الخاصة بنا إلى أداة أبعاد 9 × 16 يمكن الاعتماد عليها وآمنة تمامًا للاستخدام في أي موقف."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "إنه متاح للجميع بدون تكلفة",
+            "content": "نرحب بالجميع لاستخدام صورة تغيير الحجم لأداة أبعاد 9 × 16، وليس هناك أي شرط للتسجيل. يعد استخدام أداة تغيير الحجم الخاصة بنا لأداة الأبعاد 9 × 16 مجانيًا تمامًا، ولا نفرض عليك أي رسوم مقابل ذلك. عند استخدام أداة تغيير الحجم لأداة الأبعاد 9×16، لا يوجد حد لعدد المرات التي يمكنك فيها تغيير حجم صورك."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "القدرة على التكيف",
+            "content": "كل من Chrome و Safari و Firefox و Microsoft Edge والمتصفحات الشائعة الأخرى مدعومة بواسطة صورة تغيير الحجم إلى أداة أبعاد 9x16. عند استخدام أداة تغيير الحجم لأداة الأبعاد 9×16، ستتكيف مع أي حجم شاشة، مما يسهل الوصول إليه لك على جهاز الكمبيوتر المكتبي أو الكمبيوتر اللوحي أو الهاتف المحمول."
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "لا يوجد تنزيل آخر مطلوب",
+            "content": "من أجل استخدام أداة تغيير الحجم الخاصة بنا إلى 9x16 الأبعاد، لا نطلب منك تنزيل أو تثبيت أي برنامج على جهاز الكمبيوتر أو الجهاز المحمول الخاص بك. تعتمد أداة تغيير حجم الصورة إلى 9x16 الأبعاد بشكل كامل على المتصفح، ويمكنك الوصول إلى موقعنا في أي وقت بمجرد إدخال عنوان URL الخاص بنا في متصفحك واستخدام الأداة حسب الحاجة."
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "كيفية تغيير حجم الصورة",
+        "steps": [
+            "انقر فوق اختيار ملف لتحميل الصورة من جهازك أو انقر فوق الزر المنسدل للتحميل من Dropbox أو Google Drive.",
+            "اضبط أبعاد الصورة وتنسيقها وفقًا للمواصفات التي تريدها.",
+            "لمشاهدة التغييرات التي أجريتها، انقر فوق معاينة.",
+            "احفظ التغييرات بالنقر فوق الزر حفظ التغييرات.",
+            "للحصول على الصورة التي تم تغيير حجمها، انقر فوق الزر تنزيل."
+        ]
+    },
+
+    "jscdns": [
+        "<script src='/assets/js/googledrive.js'></script>",
+        "<script src='https://cdnjs.cloudflare.com/ajax/libs/compressorjs/1.0.7/compressor.min.js' integrity='sha512-ZNlHFR9FBdeIlhwh016g5JmmYj7DQOwkqb9Y+DBJ1MaTzRMxKZkfHWkQU/dazDn9XRriajfh7ZGFksBKeUCsCg==' crossorigin='anonymous' referrerpolicy='no-referrer'></script>"
+    ],
+    "csscdns": [
+        "<link rel='stylesheet' href='/css/utils.css' />",
+        "<link rel='stylesheet' href='/css/image-resize.css' />"
+    ]
+}

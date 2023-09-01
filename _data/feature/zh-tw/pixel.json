@@ -1,0 +1,77 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-TW",
+    "H1": "免費的基於網絡的像素藝術製作者",
+    "img": "/img/pixel.png",
+    "imgwidth": "40px",
+    "imgheight": "40px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "H2": "通過在下面上傳圖片，開始將圖像轉換為像素藝術",
+    "TITLE": "像素藝術製作者-使用此工具從您的圖像創建像素藝術",
+    "META": "簡單免費的在線像素藝術製作工具，具有多種選項可為您創建最佳的像素藝術圖像",
+    "LABEL": "",
+    "BREADCRUMB_LABEL": "",
+    "color": "#ff5975",
+    "TEXTUAL_CONTENT": [
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/highquality.png",
+            "header": "高品質",
+            "content": "我們的圖像到像素藝術轉換工具通過保持其質量將圖像轉換為像素藝術。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/security.png",
+            "header": "資料安全性",
+            "content": "您的數據不會在我們的服務器上發送所有操作都在瀏覽器本身上完成。這使我們對用戶 100％ 安全"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/flexible.png",
+            "header": "靈活性",
+            "content": "我們的圖像到像素藝術轉換工具幾乎適用於所有類型的瀏覽器和設備。這個像素藝術生成器是基於 Web 的，支持的瀏覽器包括 Microsoft Edge，Chrome，Safari，Firefox 和許多其他知名瀏覽器。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/userfriendly.png",
+            "header": "用戶友好",
+            "content": "我們的圖像到像素藝術轉換工具非常容易理解。無需專業人士即可使用我們的工具。任何人都可以隨時輕鬆使用此像素藝術生成器。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/free.png",
+            "header": "免費的",
+            "content": "我們的圖像到像素藝術轉換工具是完全免費的。您可以使用我們所有的工具，而無需支付一筆錢。使用另一個像素藝術生成器被要求訂閱，但是該像素藝術生成器可以免費完成。"
+        },
+        {
+            "priority": 1,
+            "logoUrl": "/img/featureproperty/nodownload.png",
+            "header": "無需額外下載",
+            "content": "我們的圖像到像素藝術轉換工具完全基於瀏覽器，無需在您的設備上下載其他軟件。無需下載即可在任何設備（如移動設備，標籤或 PC）上使用此像素藝術生成器。"
+        }
+    ],
+    "HOW_TO_CONTENT": {
+        "logoImageUrl": "/idea.svg",
+        "heading": "如何將我們的圖像轉換為像素藝術。",
+        "steps": [
+            "上傳圖片或單擊下拉箭頭，然後選擇 Dropbox /谷歌驅動器",
+            "向下滾動可以一目了然的像素藝術。",
+            "點擊「保存」選項以保存所做的更改。 ",
+            "使用下載選項下載像素圖。",
+            "好啦！！像素藝術已準備好使用。"
+        ]
+    },
+    "jscdns": [
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixelit.min.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/slim-select.js\"></script>",
+        "<script data-folderName='$folderName' data-lang='$lang' data-fileName='$fileName' data-tool='$tool' src=\"/js/pixel.js\"></script>"
+    ],
+    "csscdns": [
+        "<script src=\"/assets/js/googledrive.js\"></script>",
+        "<link rel=\"stylesheet\" href=\"/css/utils.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/select.css\" />",
+        "<link rel=\"stylesheet\" href=\"/css/pixel.css\" />"
+    ]
+}

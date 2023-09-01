@@ -1,0 +1,120 @@
+<div class="row">
+    <div class="title">
+        Crop Image
+    </div>
+</div>
+<div class="row divider">
+    <div class="crop-options w-100">
+        <div class="options-title">Crop for:</div>
+        <div class="drop-down-cont">
+            <div class="dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                    data-toggle="dropdown" aria-expanded="false">
+                    Freely
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <div class="dropdown-item media-crop" id="freely"> <i class="fab fa-facebook"></i>
+                        Freely
+                    </div>
+                    <div class="dropdown-item media-crop" id="facebook"> <i class="fab fa-facebook"></i>
+                        Facebook
+                    </div>
+                    <div class="dropdown-item media-crop" id="instagram"> <i class="fab fa-instagram"></i>Instagram
+                    </div>
+                    <div class="dropdown-item media-crop" id="linkedin"> <i class="fab fa-linkedin"></i>Linkedin
+                    </div>
+                    <div class="dropdown-item media-crop" id="twitter"> <i class="fab fa-twitter"></i>Twitter</div>
+                    <div class="dropdown-item media-crop" id="tumblr"> <i class="fab fa-tumblr"></i>Tumblr</div>
+                    <div class="dropdown-item media-crop" id="youtube"> <i class="fab fa-youtube"></i>Youtube</div>
+                    <div class="dropdown-item media-crop" id="whatsapp"> <i class="fab fa-whatsapp-square"></i>Whatsapp
+                    </div>
+                    <div class="dropdown-item media-crop" id="tiktok"><i class="fab fa-tiktok"></i>Tiktok</div>
+                    <div class="dropdown-item media-crop" id="discord"> <i class="fab fa-discord"></i>Discord</div>
+                    <div class="dropdown-item media-crop" id="soundcloud"><i class="fab fa-soundcloud"></i>Soundcloud
+                    </div>
+                    <div class="dropdown-item media-crop" id="twitch"> <i class="fab fa-twitch"></i>Twitch</div>
+                    <div class="dropdown-item media-crop" id="pinterest"> <i class="fab fa-pinterest"></i>Pinterest
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="col-12">
+        <div class="row" id="media-dimensions">
+
+        </div>
+    </div>
+</div>
+<div class="row divider">
+    <div class="row">
+        <div class="col-12">
+            <div class="options-title">
+                Cropping Area:
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="crop-input-title">Width</div>
+            <div class="crop-input">
+                <input type="number" id="crop-width">
+                <span>px</span>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="crop-input-title">Height</div>
+            <div class="crop-input">
+                <input type="number" id="crop-height">
+                <span>px</span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row divider">
+    <div class="options-title">
+        Rotate:
+    </div>
+    <div class="w-100">
+        <div class="block-wrapper">
+            <input class="custom-range" value="180" type="range" min="0" max="360" onchange="rotate(this)">
+            <div id="rotatevalue">0 deg</div>
+        </div>
+
+    </div>
+
+</div>
+<div class="row divider">
+    <div class="options-title">
+        Zoom:
+    </div>
+    <div class="buttons-box">
+        <div class="action-buttons" onclick="zoomOut()">
+            <img src="/img/minus.svg" alt="">
+        </div>
+        <div class="action-buttons">
+            <img src="/img/plus.svg" alt="" onclick="zoomIn()">
+        </div>
+    </div>
+
+
+</div>
+<div class="row divider">
+    <div class="options-title">
+        Choose Shape:
+        <div class="row">
+            <div class="col-12">
+                <div class="d-flex justify-content-start">
+                    <div id="remove" class="shape" style="border: 2px solid #444;">
+                        <img src="/img/shapes/square.png" style="padding: 11px;" alt="">
+                    </div>
+                    <div id="round" class="shape">
+                        <img src="/img/shapes/6.jpg" alt="">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input class="d-none" onchange="fileOnChange()" type="file" id="file" accept=".webp,.png,.jpg,.jpeg,.gif" />
